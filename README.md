@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/suriya911/Leet-Code-Problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/suriya911/Leet-Code-Problems/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/suriya911/Leet-Code-Problems/tree/master/0217-contains-duplicate) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/suriya911/Leet-Code-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/suriya911/Leet-Code-Problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/suriya911/Leet-Code-Problems/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/suriya911/Leet-Code-Problems/tree/master/0217-contains-duplicate) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/suriya911/Leet-Code-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Math
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suriya911/Leet-Code-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/suriya911/Leet-Code-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/suriya911/Leet-Code-Problems/tree/master/0125-valid-palindrome) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/suriya911/Leet-Code-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String Matching
 |  |
 | ------- |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/suriya911/Leet-Code-Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/suriya911/Leet-Code-Problems/tree/master/0217-contains-duplicate) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/suriya911/Leet-Code-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Bit Manipulation
 |  |
 | ------- |
