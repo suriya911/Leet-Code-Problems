@@ -103,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/suriya911/Leet-Code-Problems/tree/master/0735-asteroid-collision) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/suriya911/Leet-Code-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/suriya911/Leet-Code-Problems/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
