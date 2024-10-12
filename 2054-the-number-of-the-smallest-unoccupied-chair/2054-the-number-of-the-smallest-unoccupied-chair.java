@@ -1,31 +1,19 @@
 class Solution {
-    public int smallestChair(int[][] times, int targetFriend) {
-        int n = times.length;
-        Integer[] order = new Integer[n];
-        
-        for (int i = 0; i < n; i++) order[i] = i;
-
-        Arrays.sort(order, (a, b) -> Integer.compare(times[a][0], times[b][0]));
-
-        PriorityQueue<Integer> emptySeats = new PriorityQueue<>();
-        PriorityQueue<int[]> takenSeats = new PriorityQueue<>(Comparator.comparingInt(a -> a[0]));
-
-        for (int i = 0; i < n; i++) emptySeats.offer(i);
-
-        for (int i : order) {
-            int arrival = times[i][0], leave = times[i][1];
-
-            while (!takenSeats.isEmpty() && takenSeats.peek()[0] <= arrival) {
-                emptySeats.offer(takenSeats.poll()[1]);
+    public int smallestChair(int[][] times, int target) {
+        int n = times.length, max = -1, end = -1, start = times[target][0];
+        Arrays.sort(times, (a, b) -> a[0] - b[0]);
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> a[0] - b[0]);
+        PriorityQueue<Integer> seats = new PriorityQueue<>();
+        for (int i = 0; i < n; i++) {
+            while (!pq.isEmpty() && pq.peek()[0] <= times[i][0]) {
+                seats.offer(pq.poll()[1]);
             }
-
-            int seat = emptySeats.poll();
-
-            if (i == targetFriend) return seat;
-
-            takenSeats.offer(new int[]{leave, seat});
+            end = seats.isEmpty() ? ++max : seats.poll();            
+            pq.offer(new int[]{times[i][1], end});
+            if (times[i][0] == start) {
+                break;
+            }
         }
-
-        return -1;
+        return end;
     }
 }
