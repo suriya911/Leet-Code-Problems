@@ -1,24 +1,33 @@
 class Solution {
     public int maximumSwap(int num) {
-        char[] numArr = Integer.toString(num).toCharArray();
-        int n = numArr.length;
-
-        int[] list = new int[10];
-
-        for(int i=0;i<n;i++){
-            list[numArr[i]-'0']=i;
+        List<Integer>arr = new ArrayList<>();
+        int x = num;
+        while(x > 0){
+            arr.add(x%10);
+            x/=10;
         }
-
-        for(int i=0;i<n;i++){
-            for(int d=9; d>numArr[i]-'0';d--){
-                if(list[d] > i){
-                    char temp = numArr[i];
-                    numArr[i]=numArr[list[d]];
-                    numArr[list[d]]=temp;
-                    return Integer.parseInt(new String(numArr));
-                }
+        int idx = -1;
+        int idy = -1;
+        int max = -1;
+        for(int i = 0; i < arr.size(); i++){
+            if(max == -1 || arr.get(max) < arr.get(i)){
+                max = i;
+            }
+            else if(arr.get(max) > arr.get(i)){
+                idx =i;
+                idy = max;
             }
         }
-        return num;
+        if(idx != -1 && idy != -1){
+            int temp = arr.get(idx);
+            arr.set(idx,arr.get(idy));
+            arr.set(idy,temp);
+        }
+        int curr = 0;
+        for(int i = arr.size()-1; i>=0; i--){
+            curr*=10;
+            curr+=arr.get(i);
+        }
+        return curr;
     }
 }
