@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/suriya911/Leet-Code-Problems/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/suriya911/Leet-Code-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/suriya911/Leet-Code-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2554-minimum-total-distance-traveled](https://github.com/suriya911/Leet-Code-Problems/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/suriya911/Leet-Code-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/suriya911/Leet-Code-Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/suriya911/Leet-Code-Problems/tree/master/0217-contains-duplicate) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/suriya911/Leet-Code-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2554-minimum-total-distance-traveled](https://github.com/suriya911/Leet-Code-Problems/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/suriya911/Leet-Code-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/suriya911/Leet-Code-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Bit Manipulation
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/suriya911/Leet-Code-Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/suriya911/Leet-Code-Problems/tree/master/0118-pascals-triangle) |
+| [2554-minimum-total-distance-traveled](https://github.com/suriya911/Leet-Code-Problems/tree/master/2554-minimum-total-distance-traveled) |
 ## Divide and Conquer
 |  |
 | ------- |
