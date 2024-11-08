@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/suriya911/Leet-Code-Problems/tree/master/0735-asteroid-collision) |
 | [1002-maximum-width-ramp](https://github.com/suriya911/Leet-Code-Problems/tree/master/1002-maximum-width-ramp) |
 | [1923-sentence-similarity-iii](https://github.com/suriya911/Leet-Code-Problems/tree/master/1923-sentence-similarity-iii) |
+| [1940-maximum-xor-for-each-query](https://github.com/suriya911/Leet-Code-Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/suriya911/Leet-Code-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/suriya911/Leet-Code-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/suriya911/Leet-Code-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/suriya911/Leet-Code-Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/suriya911/Leet-Code-Problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/suriya911/Leet-Code-Problems/tree/master/0231-power-of-two) |
+| [1940-maximum-xor-for-each-query](https://github.com/suriya911/Leet-Code-Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/suriya911/Leet-Code-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/suriya911/Leet-Code-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 ## Simulation
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1940-maximum-xor-for-each-query](https://github.com/suriya911/Leet-Code-Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/suriya911/Leet-Code-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Memoization
 |  |
