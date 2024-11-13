@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/suriya911/Leet-Code-Problems/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/suriya911/Leet-Code-Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/suriya911/Leet-Code-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/suriya911/Leet-Code-Problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/suriya911/Leet-Code-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/suriya911/Leet-Code-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2554-minimum-total-distance-traveled](https://github.com/suriya911/Leet-Code-Problems/tree/master/2554-minimum-total-distance-traveled) |
@@ -114,12 +115,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/suriya911/Leet-Code-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/suriya911/Leet-Code-Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/suriya911/Leet-Code-Problems/tree/master/0069-sqrtx) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/suriya911/Leet-Code-Problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2716-prime-subtraction-operation](https://github.com/suriya911/Leet-Code-Problems/tree/master/2716-prime-subtraction-operation) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/suriya911/Leet-Code-Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/suriya911/Leet-Code-Problems/tree/master/0217-contains-duplicate) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/suriya911/Leet-Code-Problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/suriya911/Leet-Code-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2554-minimum-total-distance-traveled](https://github.com/suriya911/Leet-Code-Problems/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/suriya911/Leet-Code-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
