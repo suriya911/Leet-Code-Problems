@@ -15,7 +15,9 @@ class Solution {
                 hashMap.remove(j);
                 count++;
             }
+            // max = max > count ? max:count;
             max = Math.max(max, count);
+            // System.out.print(hashMap);
         }
         return max;
     }
