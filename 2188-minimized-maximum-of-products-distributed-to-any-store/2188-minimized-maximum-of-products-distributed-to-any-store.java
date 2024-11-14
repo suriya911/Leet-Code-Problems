@@ -1,22 +1,18 @@
 class Solution {
+    public boolean func(int n, int[] quantities, int m) {
+        for(int q : quantities) {
+            n -= (q+m-1)/m;
+            if(n < 0) return false;
+        }
+        return true;
+    }
     public int minimizedMaximum(int n, int[] quantities) {
-        int low = 1, high = Integer.MIN_VALUE, res = 0;
-        for (int quantity : quantities) {
-            high = Math.max(high, quantity);
+        int l = 1, r = 100000;
+        while(l <= r) {
+            int mid = l + (r-l)/2;
+            if(func(n, quantities, mid)) r = mid-1;
+            else l = mid+1;
         }
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-            int storesNeeded = 0;
-            for (int quantity : quantities) {
-                storesNeeded += Math.ceil((double) quantity / mid);
-            }
-            if (storesNeeded <= n) {
-                res = mid;
-                high = mid - 1;
-            } else {
-                low = mid + 1;
-            }
-        }
-        return res;
+        return l;
     }
 }
