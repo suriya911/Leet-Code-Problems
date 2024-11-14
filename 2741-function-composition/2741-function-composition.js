@@ -3,14 +3,9 @@
  * @return {Function}
  */
 var compose = function(functions) {
-    if (functions.length === 0){
-        return function(x) { return x;};
+    return function(x) {
+        return functions.reduceRight((n, fn) => fn(n), x);
     }
-    return functions.reduceRight(function(prev,next){
-        return function(x) {
-            return next(prev(x));
-        };
-    });
 };
 
 /**
