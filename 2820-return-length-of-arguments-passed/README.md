@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/return-length-of-arguments-passed">2820. Return Length of Arguments Passed</a></h2><h3>Easy</h3><hr>Write a function&nbsp;<code>argumentsLength</code> that returns the count of arguments passed to it.
+<h2><a href="https://leetcode.com/problems/function-composition">2820. Return Length of Arguments Passed</a></h2><h3>Easy</h3><hr>Write a function&nbsp;<code>argumentsLength</code> that returns the count of arguments passed to it.
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
