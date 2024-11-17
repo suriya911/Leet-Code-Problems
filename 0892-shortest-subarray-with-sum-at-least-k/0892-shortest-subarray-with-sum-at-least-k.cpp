@@ -1,22 +1,31 @@
+
 class Solution {
 public:
-    int shortestSubarray(vector<int>& nums, int k) {
-        using pll = pair<long long, long long>;
-        priority_queue<pll, vector<pll>, greater<pll>> pq;
-        long long sum = 0;
-        long long minLen = LLONG_MAX;
+    int shortestSubarray(std::vector<int>& nums, int k) {
+        int n = nums.size();
+        int ans = INT_MAX;
 
-        for (long long i = 0; i < nums.size(); ++i) {
-            sum += nums[i];
-            if (sum >= k) {
-                minLen = min(minLen, i + 1);
-            }
-            while (!pq.empty() && sum - pq.top().first >= k) {
-                minLen = min(minLen, i - pq.top().second);
-                pq.pop();
-            }
-            pq.emplace(sum, i);
+        // Compute prefix sums
+        std::vector<long long> prefixSum(n + 1, 0);
+        for (int i = 0; i < n; ++i) {
+            prefixSum[i + 1] = prefixSum[i] + nums[i];
         }
-        return (minLen != LLONG_MAX) ? static_cast<int>(minLen) : -1;
+
+        deque<int> deque;
+
+        for (int i = 0; i <= n; ++i) {
+            while (!deque.empty() && prefixSum[i] - prefixSum[deque.front()] >= k) {
+                ans = std::min(ans, i - deque.front());
+                deque.pop_front();
+            }
+
+            while (!deque.empty() && prefixSum[i] <= prefixSum[deque.back()]) {
+                deque.pop_back();
+            }
+
+            deque.push_back(i);
+        }
+
+        return ans == INT_MAX ? -1 : ans;
     }
 };
