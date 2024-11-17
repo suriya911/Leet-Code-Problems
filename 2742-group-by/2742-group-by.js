@@ -3,16 +3,17 @@
  * @return {Object}
  */
 Array.prototype.groupBy = function(fn) {
-    const returnObject = {}
-    for (const item of this) {
+    return this.reduce((grouped,item) => {
         const key = fn(item);
-        if (key in returnObject) {
-            returnObject[key].push(item);
-        } else {
-            returnObject[key] = [item];
+
+        if(!grouped[key]){
+            grouped[key]=[];
         }
-    }
-    return returnObject;
+
+        grouped[key].push(item);
+
+        return grouped;
+    },{});
 };
 
 /**
