@@ -1,25 +1,43 @@
 class Solution {
 public:
     string longestPalindrome(string s) {
-        int start = 0, end = 0;
-        for(int i =0; i<s.length(); i++){
-            int len1 = expandCenter(s, i, i);
-            int len2 = expandCenter(s, i, i+1);
-            int len = max(len1, len2);
-            if(len>end-start){
-                start = i - (len-1)/2;
-                end = i+len/2;
+        if (s.empty()) return "";
+        if (s.length() == 1) return s;
 
+        string transformed = "#";
+        for (char c : s) {
+            transformed += c;
+            transformed += "#";
+        }
+
+        int n = transformed.size();
+        vector<int> P(n, 0); 
+        int center = 0, right = 0;  
+        int maxLen = 0, maxCenter = 0;  
+
+        for (int i = 0; i < n; ++i) {
+           
+            int mirror = 2 * center - i;
+
+            if (i < right) {
+                P[i] = min(right - i, P[mirror]); 
+            }
+
+            while (i + P[i] + 1 < n && i - P[i] - 1 >= 0 && transformed[i + P[i] + 1] == transformed[i - P[i] - 1]) {
+                P[i]++;
+            }
+
+            if (i + P[i] > right) {
+                center = i;
+                right = i + P[i];
+            }
+
+            if (P[i] > maxLen) {
+                maxLen = P[i];
+                maxCenter = i;
             }
         }
-        return s.substr(start, end-start+1);
-    }
-    int expandCenter(string s, int left, int right){
-        while(left>=0 && right<s.length() && s[left]==s[right]){
-            left--;
-            right++;
-
-        }
-        return right-left -1;
+        int start = (maxCenter - maxLen) / 2;  
+        return s.substr(start, maxLen);
     }
 };
