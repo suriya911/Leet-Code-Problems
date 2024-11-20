@@ -2,28 +2,33 @@ class Solution {
 public:
     string convert(string s, int numRows) {
         int n = s.length();
+        int m = 2 * numRows - 2;
+        string output = "";
 
-        if (n <= numRows || numRows==1) return s;
+        if (numRows == 1)
+            return s;
+        
+        // First row
+        for (int i = 0; i < n; i += m) 
+            output.push_back(s[i]);
 
-        string res = "";
-        int magic = numRows + numRows-2;
-        pair<int,int> currMagic = {magic,magic};
-
-        for(int i = 0;i<numRows;i++) {
-            int id = i;
-            bool tog = 1;
-
-            while(id<n) {
-                res += s[id];
-                id += tog ? currMagic.first : currMagic.second; 
-                tog=!tog;
+        // Mid rows
+        int j, k;
+        for (int i = 1; i < numRows - 1; i++) {
+            for (j = i, k = m - i; j < n && k < n; j += m, k += m) {
+                output.push_back(s[j]);
+                output.push_back(s[k]);
             }
-
-            currMagic.first = currMagic.first == 2 ? magic : currMagic.first-2;
-            currMagic.second = currMagic.first == magic ? magic : magic - currMagic.first;
-
+            if (j < n)
+                output.push_back(s[j]);
+            if (k < n)
+                output.push_back(s[k]);
         }
 
-        return res;
+        // Last row
+        for (int i = numRows - 1; i < n; i += m) 
+            output.push_back(s[i]);
+
+        return output;
     }
 };
