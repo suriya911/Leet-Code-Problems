@@ -1,46 +1,30 @@
 class Solution {
 public:
     int countUnguarded(int m, int n, vector<vector<int>>& guards, vector<vector<int>>& walls) {
-        vector<vector<int>> grid(m, vector<int>(n, 0));
-        // 0 = free, 1 = guard, 2 = wall, 3 = guardable
-        
-        for (const auto& guard : guards) {
-            grid[guard[0]][guard[1]] = 1;
+        int g[m][n];
+        memset(g, 0, sizeof(g));
+        for (auto& e : guards) {
+            g[e[0]][e[1]] = 2;
         }
-        for (const auto& wall : walls) {
-            grid[wall[0]][wall[1]] = 2;
+        for (auto& e : walls) {
+            g[e[0]][e[1]] = 2;
         }
-        
-        auto mark_guarded = [&](int r, int c) {
-            for (int row = r + 1; row < m; row++) {
-                if (grid[row][c] == 1 || grid[row][c] == 2) break;
-                grid[row][c] = 3;
-            }
-            for (int row = r - 1; row >= 0; row--) {
-                if (grid[row][c] == 1 || grid[row][c] == 2) break;
-                grid[row][c] = 3;
-            }
-            for (int col = c + 1; col < n; col++) {
-                if (grid[r][col] == 1 || grid[r][col] == 2) break;
-                grid[r][col] = 3;
-            }
-            for (int col = c - 1; col >= 0; col--) {
-                if (grid[r][col] == 1 || grid[r][col] == 2) break;
-                grid[r][col] = 3;
-            }
-        };
-        
-        for (const auto& guard : guards) {
-            mark_guarded(guard[0], guard[1]);
-        }
-        
-        int res = 0;
-        for (const auto& row : grid) {
-            for (int cell : row) {
-                if (cell == 0) res++;
+        int dirs[5] = {-1, 0, 1, 0, -1};
+        for (auto& e : guards) {
+            for (int k = 0; k < 4; ++k) {
+                int x = e[0], y = e[1];
+                int a = dirs[k], b = dirs[k + 1];
+                while (x + a >= 0 && x + a < m && y + b >= 0 && y + b < n && g[x + a][y + b] < 2) {
+                    x += a;
+                    y += b;
+                    g[x][y] = 1;
+                }
             }
         }
-        
-        return res;
+        int ans = 0;
+        for (auto& row : g) {
+            ans += count(row, row + n, 0);
+        }
+        return ans;
     }
 };
