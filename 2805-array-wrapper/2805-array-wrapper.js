@@ -3,7 +3,7 @@
  * @return {void}
  */
 var ArrayWrapper = function(nums) {
-    this.nums = nums
+    this.nums = nums;
 };
 
 /**
@@ -18,7 +18,7 @@ ArrayWrapper.prototype.valueOf = function() {
  */
 ArrayWrapper.prototype.toString = function() {
     // return `[${this.nums.join(',')}]`;
-    return  JSON.stringify(this.nums)
+    return  JSON.stringify(this.nums);
 }
 
 /**
