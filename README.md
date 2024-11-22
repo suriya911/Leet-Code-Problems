@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/suriya911/Leet-Code-Problems/tree/master/0735-asteroid-collision) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/suriya911/Leet-Code-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1002-maximum-width-ramp](https://github.com/suriya911/Leet-Code-Problems/tree/master/1002-maximum-width-ramp) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/suriya911/Leet-Code-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/suriya911/Leet-Code-Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/suriya911/Leet-Code-Problems/tree/master/1755-defuse-the-bomb) |
 | [1923-sentence-similarity-iii](https://github.com/suriya911/Leet-Code-Problems/tree/master/1923-sentence-similarity-iii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/suriya911/Leet-Code-Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/suriya911/Leet-Code-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/0219-contains-duplicate-ii) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/suriya911/Leet-Code-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/suriya911/Leet-Code-Problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/suriya911/Leet-Code-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/suriya911/Leet-Code-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -306,5 +308,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/suriya911/Leet-Code-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/suriya911/Leet-Code-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 <!---LeetCode Topics End-->
