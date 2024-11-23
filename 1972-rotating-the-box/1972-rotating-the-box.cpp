@@ -1,30 +1,25 @@
 class Solution {
 public:
     vector<vector<char>> rotateTheBox(vector<vector<char>>& box) {
-        int row = box.size();
-        int col = box[0].size();
-        vector<vector<char>> box_90(col, vector<char>(row));
+        int m = box.size();
+        int n = box.front().size();        
+        vector<vector<char>> out(n, vector<char>(m, '.'));
 
-        // Simulate gravity
-        for (int i = 0; i < row; i++) {
-            int cell = col - 1;
-            for (int j = col - 1; j >= 0; j--) {
-                if (box[i][j] == '*') {
-                    cell = j - 1;
-                } else if (box[i][j] == '#') {
-                    box[i][j] = '.';
-                    box[i][cell--] = '#';
+        for (int j = 0; j < m; j++) {
+            int fall_to = n-1;
+            for (int i = n-1; i >= 0; i--) {
+                char cell = box[m-1-j][i];
+                if (cell == '*') {
+                    out[i][j] = '*';
+                    fall_to = i-1;
+                }
+                else if (cell == '#') {
+                    out[fall_to][j] = '#';
+                    fall_to--;
                 }
             }
         }
 
-        // Rotate the box 90 degrees clockwise
-        for (int i = 0; i < row; i++) {
-            for (int j = 0; j < col; j++) {
-                box_90[j][row - i - 1] = box[i][j];
-            }
-        }
-
-        return box_90;
+        return out;
     }
 };
