@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/suriya911/Leet-Code-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0735-asteroid-collision](https://github.com/suriya911/Leet-Code-Problems/tree/master/0735-asteroid-collision) |
+| [0787-sliding-puzzle](https://github.com/suriya911/Leet-Code-Problems/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/suriya911/Leet-Code-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1002-maximum-width-ramp](https://github.com/suriya911/Leet-Code-Problems/tree/master/1002-maximum-width-ramp) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/suriya911/Leet-Code-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/suriya911/Leet-Code-Problems/tree/master/0787-sliding-puzzle) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/suriya911/Leet-Code-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/suriya911/Leet-Code-Problems/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/suriya911/Leet-Code-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/suriya911/Leet-Code-Problems/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/suriya911/Leet-Code-Problems/tree/master/2089-maximum-matrix-sum) |
