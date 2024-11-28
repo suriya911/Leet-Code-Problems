@@ -1,32 +1,34 @@
 class Solution {
 public:
     int minimumObstacles(vector<vector<int>>& grid) {
-        int m = grid.size(), n = grid[0].size();
-        vector<vector<int>> distance(m, vector<int>(n, INT_MAX));
-        deque<pair<int, int>> dq;
-
-        distance[0][0] = 0;
-        dq.push_front({0, 0});
-        vector<pair<int, int>> directions = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
-
-        while (!dq.empty()) {
-            auto [x, y] = dq.front();
-            dq.pop_front();
-            for (auto [dx, dy] : directions) {
-                int nx = x + dx, ny = y + dy;
-                if (nx >= 0 && nx < m && ny >= 0 && ny < n) {
-                    int newDist = distance[x][y] + grid[nx][ny];
-                    if (newDist < distance[nx][ny]) {
-                        distance[nx][ny] = newDist;
-                        if (grid[nx][ny] == 0) {
-                            dq.push_front({nx, ny});
-                        } else {
-                            dq.push_back({nx, ny});
-                        }
+        int n = grid.size(),m=grid[0].size();
+        int dp[n][m];
+        memset(dp,-1,sizeof(dp));
+        dp[0][0] = grid[0][0];
+        int dx[] ={1,-1,0,0};
+        int dy[] ={0,0,1,-1};
+        queue <pair<int,int>> q,q1;
+        q.push({0,0});
+        while(!q.empty()){
+            pair<int,int> p = q.front();
+            q.pop();
+            for(int i=0;i<4;i++){
+                int x = p.first+dx[i],y=p.second+dy[i];
+                if(x>=0&&x<n&&y>=0&&y<m&&dp[x][y]==-1){
+                    dp[x][y] = dp[p.first][p.second] + grid[x][y];
+                    if(grid[x][y]){
+                        q1.push({x,y});
+                    }
+                    else
+                    {
+                        q.push({x,y});
                     }
                 }
             }
+            if(q.empty()){
+                swap(q,q1);
+            }
         }
-        return distance[m-1][n-1];
+        return dp[n-1][m-1];
     }
 };
