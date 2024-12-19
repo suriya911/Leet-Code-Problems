@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/suriya911/Leet-Code-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0735-asteroid-collision](https://github.com/suriya911/Leet-Code-Problems/tree/master/0735-asteroid-collision) |
+| [0780-max-chunks-to-make-sorted](https://github.com/suriya911/Leet-Code-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/suriya911/Leet-Code-Problems/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/suriya911/Leet-Code-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1002-maximum-width-ramp](https://github.com/suriya911/Leet-Code-Problems/tree/master/1002-maximum-width-ramp) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/suriya911/Leet-Code-Problems/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/suriya911/Leet-Code-Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/suriya911/Leet-Code-Problems/tree/master/0217-contains-duplicate) |
+| [0780-max-chunks-to-make-sorted](https://github.com/suriya911/Leet-Code-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/suriya911/Leet-Code-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/suriya911/Leet-Code-Problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/suriya911/Leet-Code-Problems/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0394-decode-string](https://github.com/suriya911/Leet-Code-Problems/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/suriya911/Leet-Code-Problems/tree/master/0735-asteroid-collision) |
+| [0780-max-chunks-to-make-sorted](https://github.com/suriya911/Leet-Code-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/suriya911/Leet-Code-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/suriya911/Leet-Code-Problems/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/suriya911/Leet-Code-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0649-dota2-senate](https://github.com/suriya911/Leet-Code-Problems/tree/master/0649-dota2-senate) |
 | [0670-maximum-swap](https://github.com/suriya911/Leet-Code-Problems/tree/master/0670-maximum-swap) |
+| [0780-max-chunks-to-make-sorted](https://github.com/suriya911/Leet-Code-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/suriya911/Leet-Code-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1917-maximum-average-pass-ratio](https://github.com/suriya911/Leet-Code-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/suriya911/Leet-Code-Problems/tree/master/2089-maximum-matrix-sum) |
@@ -295,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/suriya911/Leet-Code-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/suriya911/Leet-Code-Problems/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/suriya911/Leet-Code-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/suriya911/Leet-Code-Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
