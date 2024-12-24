@@ -338,12 +338,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/suriya911/Leet-Code-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/suriya911/Leet-Code-Problems/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/suriya911/Leet-Code-Problems/tree/master/0787-sliding-puzzle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/suriya911/Leet-Code-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/suriya911/Leet-Code-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/suriya911/Leet-Code-Problems/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Tree
 |  |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/suriya911/Leet-Code-Problems/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/suriya911/Leet-Code-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/suriya911/Leet-Code-Problems/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Shortest Path
 |  |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/suriya911/Leet-Code-Problems/tree/master/2201-valid-arrangement-of-pairs) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/suriya911/Leet-Code-Problems/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Eulerian Circuit
 |  |
 | ------- |
