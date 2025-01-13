@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/suriya911/Leet-Code-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/suriya911/Leet-Code-Problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/suriya911/Leet-Code-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Math
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/suriya911/Leet-Code-Problems/tree/master/3195-separate-black-and-white-balls) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3451-string-compression-iii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3451-string-compression-iii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/suriya911/Leet-Code-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/suriya911/Leet-Code-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/suriya911/Leet-Code-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/suriya911/Leet-Code-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Number Theory
 |  |
 | ------- |
