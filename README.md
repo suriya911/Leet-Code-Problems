@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/suriya911/Leet-Code-Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/suriya911/Leet-Code-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/suriya911/Leet-Code-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2509-minimize-xor](https://github.com/suriya911/Leet-Code-Problems/tree/master/2509-minimize-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/suriya911/Leet-Code-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/suriya911/Leet-Code-Problems/tree/master/3394-minimum-array-end) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/suriya911/Leet-Code-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/suriya911/Leet-Code-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/suriya911/Leet-Code-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2509-minimize-xor](https://github.com/suriya911/Leet-Code-Problems/tree/master/2509-minimize-xor) |
 | [2716-prime-subtraction-operation](https://github.com/suriya911/Leet-Code-Problems/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/suriya911/Leet-Code-Problems/tree/master/3195-separate-black-and-white-balls) |
 ## Sliding Window
