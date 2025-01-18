@@ -1,33 +1,49 @@
-#include <bits/stdc++.h>
-using namespace std;
-const int dx[4] = {0, 0, 1, -1};
-const int dy[4] = {1, -1, 0, 0};
 class Solution {
 public:
     int minCost(vector<vector<int>>& grid) {
-        int r = grid.size(), c = grid[0].size();
-        vector<vector<int>> dist(r, vector<int>(c, INT_MAX));
-        deque<pair<int, int>> dq;
-        dq.emplace_front(0, 0);
-        dist[0][0] = 0;
-        
-        while (!dq.empty()) {
-            auto [x, y] = dq.front(); dq.pop_front();
-            for (int i = 0; i < 4; ++i) {
-                int nx = x + dx[i], ny = y + dy[i];
-                if (nx >= 0 && nx < r && ny >= 0 && ny < c) {
-                    int cost = (i + 1 == grid[x][y]) ? 0 : 1;
-                    if (dist[x][y] + cost < dist[nx][ny]) {
-                        dist[nx][ny] = dist[x][y] + cost;
-                        if (cost == 0) {
-                            dq.emplace_front(nx, ny);
-                        } else {
-                            dq.emplace_back(nx, ny);
+        int n=grid.size();
+        int m=grid[0].size();
+
+        int dx[4]={0,0,1,-1};
+        int dy[4]={1,-1,0,0};
+
+        int dist[n][m];
+
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                dist[i][j]=INT_MAX;
+            }
+        }
+        deque<pair<int,int>>dq;
+        dq.push_back({0,0});
+        dist[0][0]=0;
+
+        while(dq.size()>0){
+            auto curr=dq.front();
+            dq.pop_front();
+            int x=curr.first;
+            int y=curr.second;
+            int dir=grid[x][y];
+
+            for(int i=0;i<4;i++){
+                int nx=x+dx[i];
+                int ny=y+dy[i];
+
+                int edgewt=1;
+                if(i+1==dir) edgewt=0;
+
+                if(nx<n and ny<m and nx>=0 and ny>=0){
+                    if(dist[nx][ny]>dist[x][y]+edgewt){
+                        dist[nx][ny]=dist[x][y]+edgewt;
+                        if(edgewt==1){
+                            dq.push_back({nx,ny});
+                        }else{
+                            dq.push_front({nx,ny});
                         }
                     }
                 }
             }
         }
-        return dist[r-1][c-1];
+        return dist[n-1][m-1];
     }
 };
