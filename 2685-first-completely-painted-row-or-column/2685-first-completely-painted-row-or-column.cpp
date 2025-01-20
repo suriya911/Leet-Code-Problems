@@ -1,30 +1,23 @@
 class Solution {
 public:
     int firstCompleteIndex(vector<int>& arr, vector<vector<int>>& mat) {
-        int m = mat.size(), n = mat[0].size(), N = m * n;
-        vector<int> numToIndex(N + 1, -1);  
-        for (int i = 0; i < N; ++i) {
-            numToIndex[arr[i]] = i;
-        }
-        vector<int> rowPainted(m, 0), colPainted(n, 0);
-        vector<int> rowPos(N), colPos(N);
-        for (int i = 0; i < m; ++i) {
-            for (int j = 0; j < n; ++j) {
-                int num = mat[i][j];
-                int indexInArr = numToIndex[num];
-                rowPos[indexInArr] = i;
-                colPos[indexInArr] = j;
-            }
-        }
-        for (int i = 0; i < N; ++i) {
-            int num = arr[i];
-            int rowIdx = rowPos[numToIndex[num]];
-            int colIdx = colPos[numToIndex[num]];
-            if (++rowPainted[rowIdx] == n || ++colPainted[colIdx] == m) {
+
+        int m = mat.size(), n = mat[0].size();
+
+        vector<pair<int, int>> num_to_coordinates(m*n);
+        for (int r = 0; r < m; r++)
+            for (int c = 0; c < n; c++)
+                num_to_coordinates[mat[r][c]-1] = make_pair(r, c);
+
+        vector<int> row_tally(m, 0);
+        vector<int> col_tally(n, 0);
+
+        for (int i = 0; i < arr.size(); i ++) {
+            auto& [r, c] = num_to_coordinates[arr[i]-1];
+            if (++row_tally[r] == n || ++col_tally[c] == m)
                 return i;
-            }
         }
 
-        return -1;
+        return arr.size();
     }
 };
