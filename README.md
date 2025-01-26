@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/suriya911/Leet-Code-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/suriya911/Leet-Code-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/suriya911/Leet-Code-Problems/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/suriya911/Leet-Code-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/suriya911/Leet-Code-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/suriya911/Leet-Code-Problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/suriya911/Leet-Code-Problems/tree/master/0066-plus-one) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/suriya911/Leet-Code-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/suriya911/Leet-Code-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/suriya911/Leet-Code-Problems/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/suriya911/Leet-Code-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/suriya911/Leet-Code-Problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suriya911/Leet-Code-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/suriya911/Leet-Code-Problems/tree/master/0088-merge-sorted-array) |
