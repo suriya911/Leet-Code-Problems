@@ -1,45 +1,42 @@
 class Solution {
     public List<Boolean> checkIfPrerequisite(int numCourses, int[][] prerequisites, int[][] queries) {
-        List<List<Integer>> adj = new ArrayList<>();
-        int[] indegree = new int[numCourses];
         
-        for(int i = 0; i < numCourses; i++) {
-            adj.add(new ArrayList<>());
+        //Wah Modiji(Tribute To Modiji For His BirthDay)MODIROCKS!!
+        
+        ArrayList graph[] = new ArrayList[numCourses];
+        List<Boolean>res = new ArrayList<>();
+        
+        for(int num = 0 ; num<numCourses ; num++){
+            graph[num] = new ArrayList<>();
         }
         
-        for(int[] p : prerequisites) {
-            adj.get(p[0]).add(p[1]);
-            indegree[p[1]]++;
-        }
-        
-        Queue<Integer> q = new LinkedList<>();
-        for(int i = 0; i < numCourses; i++) {
-            if(indegree[i] == 0) {
-                q.offer(i);
+        for(int i = 0 ; i<prerequisites.length ; i++){
+            for(int j = 0 ; j<prerequisites[0].length ; j++){
+                graph[prerequisites[i][0]].add(prerequisites[i][1]);
             }
         }
         
-        Map<Integer, Set<Integer>> mp = new HashMap<>();
-        for(int i = 0; i < numCourses; i++) {
-            mp.put(i, new HashSet<>());
+        boolean [][] status = new boolean[numCourses][numCourses];
+        for(int i = 0 ; i<numCourses ; i++){
+            dfs(i, graph , status , i);
         }
         
-        while(!q.isEmpty()) {
-            int curr = q.poll();
-            for(int next : adj.get(curr)) {
-                mp.get(next).add(curr);
-                mp.get(next).addAll(mp.get(curr));
-                indegree[next]--;
-                if(indegree[next] == 0) {
-                    q.offer(next);
-                }
-            }
+        for(int q[]:queries){
+            int parent = q[0];
+            int child = q[1];
+            res.add(status[parent][child]);
         }
         
-        List<Boolean> res = new ArrayList<>();
-        for(int[] query : queries) {
-            res.add(mp.get(query[1]).contains(query[0]));
-        }
         return res;
     }
+    public void dfs(int node  , ArrayList graph[] , boolean[][]status , int par){
+        status[par][node] = true;
+        
+        for(int i = 0 ; i<graph[node].size() ; i++){
+            int child = (int)graph[node].get(i);
+            //no repetation
+            if(!status[par][child])
+                dfs(child, graph , status , par);
+        }
+    }   
 }
