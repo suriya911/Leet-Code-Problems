@@ -1,23 +1,23 @@
 class Solution {
 public:
+    int n;
+    long long cnt(vector<int>& nums, int x){
+        int l=0, r=n-1;
+        long long ans=0;
+        while(l<r){
+            int s=nums[l]+nums[r];
+            if (s<x) {
+                ans+=(r-l);
+                l++;
+            }
+            else r--;
+        }
+        return ans;
+
+    }
     long long countFairPairs(vector<int>& nums, int lower, int upper) {
         sort(nums.begin(), nums.end());
-
-        return countless(nums, upper) - countless(nums,lower -1);
-    }
-
-private:
-
-    long long countless(vector<int>& nums, int sum) {
-        long long res = 0;
-        int j = nums.size() - 1;
-
-        for(int i = 0; i < j ; i++){
-            while(i < j && nums[i] + nums[j] > sum){
-                --j;
-            }
-            res += j-i;
-        }
-        return res;
+        n=nums.size();
+        return cnt(nums, upper+1)-cnt(nums, lower);
     }
 };
