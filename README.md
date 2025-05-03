@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/suriya911/Leet-Code-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0952-word-subsets](https://github.com/suriya911/Leet-Code-Problems/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/suriya911/Leet-Code-Problems/tree/master/1002-maximum-width-ramp) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/suriya911/Leet-Code-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/suriya911/Leet-Code-Problems/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/suriya911/Leet-Code-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/suriya911/Leet-Code-Problems/tree/master/1396-count-servers-that-communicate) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/suriya911/Leet-Code-Problems/tree/master/0670-maximum-swap) |
 | [0780-max-chunks-to-make-sorted](https://github.com/suriya911/Leet-Code-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/suriya911/Leet-Code-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/suriya911/Leet-Code-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1502-construct-k-palindrome-strings](https://github.com/suriya911/Leet-Code-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/suriya911/Leet-Code-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/suriya911/Leet-Code-Problems/tree/master/2089-maximum-matrix-sum) |
