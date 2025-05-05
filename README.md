@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/suriya911/Leet-Code-Problems/tree/master/0118-pascals-triangle) |
 | [0494-target-sum](https://github.com/suriya911/Leet-Code-Problems/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/suriya911/Leet-Code-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0806-domino-and-tromino-tiling](https://github.com/suriya911/Leet-Code-Problems/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/suriya911/Leet-Code-Problems/tree/master/0868-push-dominoes) |
 | [1063-best-sightseeing-pair](https://github.com/suriya911/Leet-Code-Problems/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/suriya911/Leet-Code-Problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
