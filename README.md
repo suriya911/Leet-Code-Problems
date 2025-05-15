@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/suriya911/Leet-Code-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/suriya911/Leet-Code-Problems/tree/master/2868-continuous-subarrays) |
 | [2915-count-of-interesting-subarrays](https://github.com/suriya911/Leet-Code-Problems/tree/master/2915-count-of-interesting-subarrays) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/suriya911/Leet-Code-Problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/suriya911/Leet-Code-Problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/suriya911/Leet-Code-Problems/tree/master/3291-find-if-array-can-be-sorted) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/suriya911/Leet-Code-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/suriya911/Leet-Code-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/suriya911/Leet-Code-Problems/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/suriya911/Leet-Code-Problems/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/suriya911/Leet-Code-Problems/tree/master/3195-separate-black-and-white-balls) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/suriya911/Leet-Code-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/suriya911/Leet-Code-Problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/suriya911/Leet-Code-Problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2554-minimum-total-distance-traveled](https://github.com/suriya911/Leet-Code-Problems/tree/master/2554-minimum-total-distance-traveled) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/suriya911/Leet-Code-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/suriya911/Leet-Code-Problems/tree/master/3637-count-number-of-balanced-permutations) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/suriya911/Leet-Code-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/suriya911/Leet-Code-Problems/tree/master/2509-minimize-xor) |
 | [2716-prime-subtraction-operation](https://github.com/suriya911/Leet-Code-Problems/tree/master/2716-prime-subtraction-operation) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3195-separate-black-and-white-balls](https://github.com/suriya911/Leet-Code-Problems/tree/master/3195-separate-black-and-white-balls) |
 ## Sliding Window
 |  |
