@@ -1,23 +1,26 @@
 class Solution {
     public int maxRemoval(int[] nums, int[][] queries) {
-        Arrays.sort(queries, (a, b) -> Integer.compare(a[0], b[0]));
-        PriorityQueue<Integer> available = new PriorityQueue<>(Collections.reverseOrder());
-        PriorityQueue<Integer> assigned = new PriorityQueue<>();
-        int count = 0;
-        for (int time = 0, k = 0; time < nums.length; time++) {
-            while (!assigned.isEmpty() && assigned.peek() < time)
-                assigned.poll();
-            while (k < queries.length && queries[k][0] <= time)
-                available.add(queries[k++][1]);
-            while (assigned.size() < nums[time]
-                   && !available.isEmpty()
-                   && available.peek() >= time) {
-                assigned.add(available.poll());
-                count++;
+        Arrays.sort(queries, (a, b) -> a[0] - b[0]);
+        PriorityQueue<Integer> pq = new PriorityQueue<>((a, b) -> b - a);
+        int[] delta = new int[nums.length + 1];
+        for (int i = 0, j = 0; i < nums.length; i++) {
+            delta[i] += (i == 0) ? 0 : delta[i - 1];
+            int v = nums[i] - delta[i];
+            for (; j < queries.length && queries[j][0] == i; j++) {
+                pq.offer(queries[j][1]);
             }
-            if (assigned.size() < nums[time])
-                return -1;
+            while (v > 0) {
+                if (pq.isEmpty()) {
+                    return -1;
+                }
+                int x = pq.remove();
+                if (x >= i) {
+                    v--;
+                    delta[i]++;
+                    delta[x + 1]--;
+                }
+            }
         }
-        return queries.length - count;
+        return pq.size();
     }
 }
