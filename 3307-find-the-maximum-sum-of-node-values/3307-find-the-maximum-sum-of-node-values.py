@@ -1,12 +1,13 @@
 class Solution:
     def maximumValueSum(self, nums: List[int], k: int, edges: List[List[int]]) -> int:
-        n=len(nums)
-        @cache
-        def f(i, c):
-            if i==n:
-                if c==1: return -(1<<31)
-                return 0
-            x=nums[i]
-            return max(x+f(i+1, c),(x^k)+f(i+1,1-c))
-        return f(0, 0)
-        
+        deltas = [(num ^ k) - num for num in nums]
+        positives = [d for d in deltas if d >= 0]
+        if len(positives) % 2 == 0:
+            return sum(nums) + sum(positives)
+
+        maxNegative = max((d for d in deltas if d < 0), default=float("-inf"))
+        minPositive = min(positives)
+
+        return sum(nums) + max(
+            sum(positives) + maxNegative, sum(positives) - minPositive
+        )
