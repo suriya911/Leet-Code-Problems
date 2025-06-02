@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/suriya911/Leet-Code-Problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/suriya911/Leet-Code-Problems/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/suriya911/Leet-Code-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/suriya911/Leet-Code-Problems/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/suriya911/Leet-Code-Problems/tree/master/0149-max-points-on-a-line) |
 | [0217-contains-duplicate](https://github.com/suriya911/Leet-Code-Problems/tree/master/0217-contains-duplicate) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/suriya911/Leet-Code-Problems/tree/master/0135-candy) |
 | [0649-dota2-senate](https://github.com/suriya911/Leet-Code-Problems/tree/master/0649-dota2-senate) |
 | [0670-maximum-swap](https://github.com/suriya911/Leet-Code-Problems/tree/master/0670-maximum-swap) |
 | [0780-max-chunks-to-make-sorted](https://github.com/suriya911/Leet-Code-Problems/tree/master/0780-max-chunks-to-make-sorted) |
