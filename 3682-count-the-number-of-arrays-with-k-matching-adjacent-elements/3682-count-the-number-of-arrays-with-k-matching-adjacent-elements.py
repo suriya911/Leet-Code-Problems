@@ -1,32 +1,17 @@
-N, MOD = 10 ** 5 + 4, 10 ** 9 + 7
+mx = 10**5 + 10
+mod = 10**9 + 7
+f = [1] + [0] * mx
+g = [1] + [0] * mx
 
-def bigpow(a, n):
-    if n == 0:
-        return 1
-    b = bigpow(a, n // 2)
-    b = b * b % MOD
-    if n % 2 == 1:
-        b = b * a % MOD
-    return b
+for i in range(1, mx):
+    f[i] = f[i - 1] * i % mod
+    g[i] = pow(f[i], mod - 2, mod)
 
-def inv(a):
-    return bigpow(a, MOD - 2)
 
-fs = [1, 1]
-inv_fs = [1, 1]
-for i in range(2, N):
-    fs.append(fs[-1] * i % MOD)
-    inv_fs.append(inv(fs[-1]))
+def comb(m: int, n: int) -> int:
+    return f[m] * g[n] * g[m - n] % mod
 
-def C(n, k):
-    return fs[n] * inv_fs[k] * inv_fs[n - k] % MOD
 
-class Solution(object):
-    def countGoodArrays(self, n, m, k):
-        """
-        :type n: int
-        :type m: int
-        :type k: int
-        :rtype: int
-        """
-        return C(n - 1, k) * m * bigpow(m - 1, n - k - 1) % MOD
+class Solution:
+    def countGoodArrays(self, n: int, m: int, k: int) -> int:
+        return comb(n - 1, k) * m * pow(m - 1, n - k - 1, mod) % mod
