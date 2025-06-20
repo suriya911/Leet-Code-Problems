@@ -1,25 +1,12 @@
 class Solution {
 public:
-    int maxDistance(string s, int k) {
-        int latitude = 0, longitude = 0, ans = 0;
-        int n = s.size();
-        for (int i = 0; i < n; i++) {
-            switch (s[i]) {
-                case 'N':
-                    latitude++;
-                    break;
-                case 'S':
-                    latitude--;
-                    break;
-                case 'E':
-                    longitude++;
-                    break;
-                case 'W':
-                    longitude--;
-                    break;
-            }
-            ans = max(ans, min(abs(latitude) + abs(longitude) + k * 2, i + 1));
-        }
-        return ans;
+int maxDistance(string s, int k) {
+    int res = 1, hor = 0, ver = 0;
+    for (int i = 0; i < s.size(); ++i) {
+        ver += s[i] == 'N' ? 1 : s[i] == 'S' ? -1 : 0;
+        hor += s[i] == 'W' ? 1 : s[i] == 'E' ? -1 : 0;
+        res = max(res, min(abs(hor) + abs(ver) + 2 * k, i + 1));
     }
+    return res;
+}
 };
