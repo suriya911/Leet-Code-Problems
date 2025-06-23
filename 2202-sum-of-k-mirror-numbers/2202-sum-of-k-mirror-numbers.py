@@ -1,28 +1,21 @@
 class Solution:
     def kMirror(self, k: int, n: int) -> int:
-        def isPal(x):
-            digs = []
-            while x > 0:
-                digs.append(x % k)
-                x //= k
-            return digs == digs[::-1]
-    
-        total, cnt, length = 0, 0, 1
-        while cnt < n:
-            half_len = (length + 1) // 2
-            start = 10**(half_len - 1)
-            end = 10**half_len
-            for half in range(start, end):
-                s = str(half)
-                if length % 2 == 0:
-                    pal_s = s + s[::-1]
-                else:
-                    pal_s = s + s[-2::-1]
-                pal = int(pal_s)
-                if isPal(pal):
-                    total += pal
-                    cnt += 1
-                    if cnt == n:
-                        return total
-            length += 1
-        return total
+        
+        def fn(x):
+            n = len(x)//2
+            for i in range(n, len(x)): 
+                if int(x[i])+1 < k: 
+                    x[i] = x[~i] = str(int(x[i])+1)
+                    for ii in range(n, i): x[ii] = x[~ii] = '0'
+                    return x
+            return ["1"] + ["0"]*(len(x)-1) + ["1"]
+                
+        x = ["0"]
+        ans = 0
+        for _ in range(n): 
+            while True: 
+                x = fn(x)
+                val = int("".join(x), k)
+                if str(val)[::-1] == str(val): break
+            ans += val
+        return ans 
