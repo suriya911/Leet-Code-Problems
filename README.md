@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/suriya911/Leet-Code-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/suriya911/Leet-Code-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/suriya911/Leet-Code-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/suriya911/Leet-Code-Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/suriya911/Leet-Code-Problems/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2465-shifting-letters-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/2465-shifting-letters-ii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/suriya911/Leet-Code-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/suriya911/Leet-Code-Problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/suriya911/Leet-Code-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2164-two-best-non-overlapping-events](https://github.com/suriya911/Leet-Code-Problems/tree/master/2164-two-best-non-overlapping-events) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/suriya911/Leet-Code-Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/suriya911/Leet-Code-Problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2554-minimum-total-distance-traveled](https://github.com/suriya911/Leet-Code-Problems/tree/master/2554-minimum-total-distance-traveled) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/suriya911/Leet-Code-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/suriya911/Leet-Code-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/suriya911/Leet-Code-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/suriya911/Leet-Code-Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/suriya911/Leet-Code-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/suriya911/Leet-Code-Problems/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/suriya911/Leet-Code-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/suriya911/Leet-Code-Problems/tree/master/0070-climbing-stairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/suriya911/Leet-Code-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/suriya911/Leet-Code-Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Backtracking
 |  |
 | ------- |
