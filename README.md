@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3647-zero-array-transformation-iii) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/suriya911/Leet-Code-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/suriya911/Leet-Code-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3647-zero-array-transformation-iii) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Monotonic Stack
 |  |
