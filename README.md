@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/suriya911/Leet-Code-Problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/suriya911/Leet-Code-Problems/tree/master/0231-power-of-two) |
 | [0670-maximum-swap](https://github.com/suriya911/Leet-Code-Problems/tree/master/0670-maximum-swap) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/suriya911/Leet-Code-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1500-count-largest-group](https://github.com/suriya911/Leet-Code-Problems/tree/master/1500-count-largest-group) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/suriya911/Leet-Code-Problems/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/suriya911/Leet-Code-Problems/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/suriya911/Leet-Code-Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/suriya911/Leet-Code-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/suriya911/Leet-Code-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/suriya911/Leet-Code-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/suriya911/Leet-Code-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
