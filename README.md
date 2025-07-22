@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/suriya911/Leet-Code-Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/suriya911/Leet-Code-Problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/suriya911/Leet-Code-Problems/tree/master/1755-defuse-the-bomb) |
+| [1813-maximum-erasure-value](https://github.com/suriya911/Leet-Code-Problems/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/suriya911/Leet-Code-Problems/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/suriya911/Leet-Code-Problems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/suriya911/Leet-Code-Problems/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/suriya911/Leet-Code-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/suriya911/Leet-Code-Problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1813-maximum-erasure-value](https://github.com/suriya911/Leet-Code-Problems/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/suriya911/Leet-Code-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/suriya911/Leet-Code-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/suriya911/Leet-Code-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/suriya911/Leet-Code-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/suriya911/Leet-Code-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/suriya911/Leet-Code-Problems/tree/master/1755-defuse-the-bomb) |
+| [1813-maximum-erasure-value](https://github.com/suriya911/Leet-Code-Problems/tree/master/1813-maximum-erasure-value) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/suriya911/Leet-Code-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/suriya911/Leet-Code-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/suriya911/Leet-Code-Problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
