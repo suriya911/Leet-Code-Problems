@@ -2,22 +2,14 @@
  * @param {number[]} nums
  * @return {number}
  */
+
 var maximumUniqueSubarray = function(nums) {
-    let seen = new Set();
-    let left = 0;
-    let currentSum = 0;
-    let maxSum = 0;
-    
-    for (let right = 0; right < nums.length; right++) {
-        while (seen.has(nums[right])) {
-            currentSum -= nums[left];
-            seen.delete(nums[left]);
-            left++;
-        }
-        currentSum += nums[right];
-        seen.add(nums[right]);
-        maxSum = Math.max(maxSum, currentSum);
+    let nmap = new Int8Array(10001), total = 0, best = 0
+    for (let left = 0, right = 0; right < nums.length; right++) {
+        nmap[nums[right]]++, total += nums[right]
+        while (nmap[nums[right]] > 1)
+            nmap[nums[left]]--, total -= nums[left++]
+        best = Math.max(best, total)
     }
-    
-    return maxSum;
+    return best
 };
