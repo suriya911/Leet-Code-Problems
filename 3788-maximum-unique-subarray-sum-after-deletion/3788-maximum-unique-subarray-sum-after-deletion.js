@@ -2,9 +2,10 @@
  * @param {number[]} nums
  * @return {number}
  */
-const maxSum = nums => {
-    if (nums.every(c => c < 0)) return Math.max(...nums);
-    const unique = new Set(nums);
+var maxSum = function(nums) {
+    if(nums.every((x) => x < 0))return Math.max(...nums)
 
-    return [...unique].filter(c => c > 0).reduce((a, c) => a + c, 0)
-}
+    const mySet = new Set(nums)
+    const arr = Array.from(mySet.values()).filter((x) => x > 0)
+    return arr.reduce((total, item)=> total + item, 0)
+};
