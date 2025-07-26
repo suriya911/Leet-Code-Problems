@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/suriya911/Leet-Code-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/suriya911/Leet-Code-Problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2089-maximum-matrix-sum](https://github.com/suriya911/Leet-Code-Problems/tree/master/2089-maximum-matrix-sum) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/suriya911/Leet-Code-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2145-grid-game](https://github.com/suriya911/Leet-Code-Problems/tree/master/2145-grid-game) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/suriya911/Leet-Code-Problems/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/suriya911/Leet-Code-Problems/tree/master/2164-two-best-non-overlapping-events) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/suriya911/Leet-Code-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/suriya911/Leet-Code-Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/suriya911/Leet-Code-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2164-two-best-non-overlapping-events](https://github.com/suriya911/Leet-Code-Problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/suriya911/Leet-Code-Problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/suriya911/Leet-Code-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/suriya911/Leet-Code-Problems/tree/master/1813-maximum-erasure-value) |
 | [1873-longest-nice-substring](https://github.com/suriya911/Leet-Code-Problems/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/suriya911/Leet-Code-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/suriya911/Leet-Code-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/suriya911/Leet-Code-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/suriya911/Leet-Code-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/suriya911/Leet-Code-Problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
