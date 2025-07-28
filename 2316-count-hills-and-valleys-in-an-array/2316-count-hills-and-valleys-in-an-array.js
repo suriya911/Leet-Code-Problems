@@ -2,7 +2,7 @@
  * @param {number[]} nums
  * @return {number}
  */
-const countHillValley = nums => {
+var countHillValley = function (nums) {
     let count = 0;
     let left = 0;
 
