@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/suriya911/Leet-Code-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/suriya911/Leet-Code-Problems/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/suriya911/Leet-Code-Problems/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/suriya911/Leet-Code-Problems/tree/master/2689-rearranging-fruits) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/suriya911/Leet-Code-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/suriya911/Leet-Code-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/suriya911/Leet-Code-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/suriya911/Leet-Code-Problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/suriya911/Leet-Code-Problems/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/suriya911/Leet-Code-Problems/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/suriya911/Leet-Code-Problems/tree/master/2689-rearranging-fruits) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/suriya911/Leet-Code-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/suriya911/Leet-Code-Problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/suriya911/Leet-Code-Problems/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/suriya911/Leet-Code-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/suriya911/Leet-Code-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2689-rearranging-fruits](https://github.com/suriya911/Leet-Code-Problems/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/suriya911/Leet-Code-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/suriya911/Leet-Code-Problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/suriya911/Leet-Code-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/suriya911/Leet-Code-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/suriya911/Leet-Code-Problems/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/suriya911/Leet-Code-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2689-rearranging-fruits](https://github.com/suriya911/Leet-Code-Problems/tree/master/2689-rearranging-fruits) |
 | [2716-prime-subtraction-operation](https://github.com/suriya911/Leet-Code-Problems/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/suriya911/Leet-Code-Problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
