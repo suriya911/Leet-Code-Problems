@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3647-zero-array-transformation-iii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/suriya911/Leet-Code-Problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/suriya911/Leet-Code-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/suriya911/Leet-Code-Problems/tree/master/3637-count-number-of-balanced-permutations) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/suriya911/Leet-Code-Problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -755,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/suriya911/Leet-Code-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/suriya911/Leet-Code-Problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Geometry
 |  |
 | ------- |
