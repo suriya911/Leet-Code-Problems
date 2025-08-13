@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/suriya911/Leet-Code-Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/suriya911/Leet-Code-Problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/suriya911/Leet-Code-Problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/suriya911/Leet-Code-Problems/tree/master/0326-power-of-three) |
 | [0670-maximum-swap](https://github.com/suriya911/Leet-Code-Problems/tree/master/0670-maximum-swap) |
 | [0826-soup-servings](https://github.com/suriya911/Leet-Code-Problems/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/suriya911/Leet-Code-Problems/tree/master/0900-reordered-power-of-2) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/suriya911/Leet-Code-Problems/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/suriya911/Leet-Code-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/suriya911/Leet-Code-Problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/suriya911/Leet-Code-Problems/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/suriya911/Leet-Code-Problems/tree/master/0394-decode-string) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Binary Search
