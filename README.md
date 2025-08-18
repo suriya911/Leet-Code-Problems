@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/suriya911/Leet-Code-Problems/tree/master/0494-target-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/suriya911/Leet-Code-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0679-24-game](https://github.com/suriya911/Leet-Code-Problems/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/suriya911/Leet-Code-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0735-asteroid-collision](https://github.com/suriya911/Leet-Code-Problems/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/suriya911/Leet-Code-Problems/tree/master/0780-max-chunks-to-make-sorted) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/suriya911/Leet-Code-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/suriya911/Leet-Code-Problems/tree/master/0342-power-of-four) |
 | [0670-maximum-swap](https://github.com/suriya911/Leet-Code-Problems/tree/master/0670-maximum-swap) |
+| [0679-24-game](https://github.com/suriya911/Leet-Code-Problems/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/suriya911/Leet-Code-Problems/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/suriya911/Leet-Code-Problems/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/suriya911/Leet-Code-Problems/tree/master/0900-reordered-power-of-2) |
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/suriya911/Leet-Code-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/suriya911/Leet-Code-Problems/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/suriya911/Leet-Code-Problems/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/suriya911/Leet-Code-Problems/tree/master/0679-24-game) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/suriya911/Leet-Code-Problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/suriya911/Leet-Code-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/suriya911/Leet-Code-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
