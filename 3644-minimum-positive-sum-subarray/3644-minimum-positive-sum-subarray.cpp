@@ -4,14 +4,12 @@ public:
         int n = nums.size();
         int sm = INT_MAX;
 
-        for (int win = l; win <= r; win++) {  // window size iterate karo
+        for (int win = l; win <= r; win++) { 
             int s = 0;
 
-            // pehla window sum
             for (int i = 0; i < win; i++) s += nums[i];
             if (s > 0) sm = min(sm, s);
 
-            // slide window
             for (int i = win; i < n; i++) {
                 s += nums[i];
                 s -= nums[i - win];
