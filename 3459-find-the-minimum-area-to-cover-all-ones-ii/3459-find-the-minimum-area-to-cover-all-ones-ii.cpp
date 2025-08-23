@@ -1,68 +1,128 @@
+#define pii pair <int,int>
+#define F first
+#define S second
+
+#define pii pair <int,int>
 class Solution {
-public:
-     int minimumArea(vector<vector<int>>& grid,int startR, int endR, int startC , int endC) {
-        int minR = 1e9;
-        int maxR = -1e9;
-        int minC = 1e9;
-        int maxC = -1e9;
-        bool lock = true;
-        for(int i=startR;i<=endR;++i)
-        {
-            for(int k=startC;k<=endC;++k)
+
+    pair<pii, pii> MinRectangle(pii x, pii y, vector <vector <int>>& grid) {
+        int lft = x.S, rgt = y.S;
+        int top = x.F, dwn = y.F;
+        for (; lft <= rgt; lft ++) {
+            int one = 0;
+            for (int i = top; i <= dwn; i ++) 
             {
-                if( grid[i][k] == 1 )
+                if(grid[i][lft] == 1)
                 {
-                    lock = false;
-                    minR = min(minR, i);
-                    maxR = max(maxR, i);
-                    minC = min(minC, k);
-                    maxC = max(maxC, k);
+                    one++;
+                    break;    
                 }
             }
+            if (one > 0) break;
         }
-        if(lock)
-        {
-            return 1e9;
+        for (; rgt >= lft; rgt --) {
+            int one = 0;
+            for (int i = top; i <= dwn; i ++) 
+            {
+                if(grid[i][rgt] == 1)   
+                {
+                    one++;
+                    break;
+                }
+            }
+            if (one > 0) break;
         }
-        return (maxR-minR+1)*(maxC-minC+1);
+        
+        for (; top <= dwn; top ++) {
+            int one = 0;
+            for (int i = lft; i <= rgt; i ++) 
+            {
+                if(grid[top][i] == 1)
+                {
+                    one++;
+                    break;
+                }
+            }
+            if (one > 0) break;
+        }
+        for (; dwn >= top; dwn --) {
+            int one = 0;
+            for (int i = lft; i <= rgt; i ++) 
+            {
+                if(grid[dwn][i] == 1)
+                {
+                    one++;
+                    break;
+                }
+            }
+            if (one > 0) break;
+        }
+        
+        if (lft > rgt) return {{x.F, x.S}, {x.F, x.S}}; // rectangle with area 1
+        return {{top, lft}, {dwn, rgt}};
     }
-    
-    
-    int splitRec(vector<vector<int>> &grid,int startR, int endR, int startC , int endC, int splitNum)
+
+    int Area(pair <pii, pii> r)
     {
-        
-        if( splitNum == 0 ) // split done(no chance), using Leet 3195 to find the optimal solution
-        {
-            int val = minimumArea(grid,startR, endR, startC, endC);
-            return val;
-        }
-        
-        int now = 1e9;
-        // rowCut
-        for(int i=startR;i<endR;++i)
-        {
-            now = min( {now,
-                        splitRec(grid,startR, i, startC, endC, 0) + splitRec(grid,i+1, endR, startC, endC, splitNum-1),
-                       splitRec(grid,startR, i, startC, endC, splitNum-1) + splitRec(grid,i+1, endR, startC, endC, 0)});
-        }
-        //colCut
-        for(int k=startC;k<endC;++k)
-        {
-            now = min( {now,
-                        splitRec(grid,startR, endR, startC, k, 0) + splitRec(grid,startR, endR, k+1, endC, splitNum-1),
-                       splitRec(grid,startR, endR, startC, k, splitNum-1) + splitRec(grid,startR, endR, k+1, endC, 0)});
-        }
-        return now;
+        return (r.S.F - r.F.F+1)*(r.S.S - r.F.S + 1);
     }
-    
-    int minimumSum(vector<vector<int>>& grid) {
+
+    int Min2Rectangle(pii x, pii y, vector <vector <int>>& grid)
+    {
+        int ans = Area({x, y});
+
+        for(int col=x.S;col<y.S;col++)
+        {
+            auto lft = MinRectangle({x.F, x.S},{y.F, col}, grid);
+            auto rgt = MinRectangle({x.F, col+1},{y.F, y.S}, grid);
+            ans = min(ans, Area(lft)+Area(rgt));
+        }
         
+        for(int row=x.F;row<y.F;row++)
+        {
+            auto lft = MinRectangle({x.F, x.S}, {row, y.S}, grid);
+            auto rgt = MinRectangle({row+1, x.S}, {y.F, y.S}, grid);
+            ans = min(ans, Area(lft)+Area(rgt));
+        }
+
+        return ans;
+    }
+
+    int findMinRectangle3(pii x, pii y, vector <vector <int>>& grid)
+    {
+        int ans = Area({x,y});
+
+        for(int col=x.S;col<y.S;col++)
+        {
+            auto lft1 = MinRectangle({x.F, x.S}, {y.F, col}, grid);
+            auto rgt1 = Min2Rectangle({x.F , col+1}, {y.F , y.S}, grid);
+
+            auto lft2 = Min2Rectangle({x.F, x.S}, {y.F, col}, grid);
+            auto rgt2 = MinRectangle({x.F , col+1}, {y.F , y.S}, grid);
+
+            ans = min(ans, Area(lft1)+rgt1);
+            ans = min(ans, lft2+Area(rgt2));
+        }
+
+        for(int row=x.F;row<y.F;row++)
+        {
+            auto lft1 = MinRectangle({x.F, x.S},{row, y.S}, grid);
+            auto rgt1 = Min2Rectangle({row+1, x.S},{y.F, y.S}, grid);
+
+            auto lft2 = Min2Rectangle({x.F, x.S},{row, y.S}, grid);
+            auto rgt2 = MinRectangle({row+1, x.S},{y.F, y.S}, grid);
+
+            ans = min(ans, Area(lft1)+rgt1);
+            ans = min(ans, lft2+Area(rgt2));
+        }
+
+        return ans;
+    }
+
+public:
+    int minimumSum(vector<vector<int>>& grid) {
         int n = grid.size();
         int m = grid[0].size();
-
-        //first we have [0,0] ~ [n-1,m-1] rectangle  (inclusive)
-        // and we have 2 chances to split
-        int ans = splitRec(grid, 0, n-1, 0, m-1, 2);
-        return ans;
+        return findMinRectangle3({0,0}, {n-1,m-1}, grid);
     }
 };
