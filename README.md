@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/suriya911/Leet-Code-Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -805,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/suriya911/Leet-Code-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2685-first-completely-painted-row-or-column](https://github.com/suriya911/Leet-Code-Problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/suriya911/Leet-Code-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -911,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2202-sum-of-k-mirror-numbers](https://github.com/suriya911/Leet-Code-Problems/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/suriya911/Leet-Code-Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/suriya911/Leet-Code-Problems/tree/master/2998-count-symmetric-integers) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/suriya911/Leet-Code-Problems/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
