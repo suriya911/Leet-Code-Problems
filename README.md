@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/suriya911/Leet-Code-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/suriya911/Leet-Code-Problems/tree/master/2792-neighboring-bitwise-xor) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/suriya911/Leet-Code-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/suriya911/Leet-Code-Problems/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2868-continuous-subarrays](https://github.com/suriya911/Leet-Code-Problems/tree/master/2868-continuous-subarrays) |
 | [2915-count-of-interesting-subarrays](https://github.com/suriya911/Leet-Code-Problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/suriya911/Leet-Code-Problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/suriya911/Leet-Code-Problems/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/suriya911/Leet-Code-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/suriya911/Leet-Code-Problems/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2868-continuous-subarrays](https://github.com/suriya911/Leet-Code-Problems/tree/master/2868-continuous-subarrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
