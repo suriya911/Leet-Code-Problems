@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suriya911/Leet-Code-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/suriya911/Leet-Code-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/suriya911/Leet-Code-Problems/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/suriya911/Leet-Code-Problems/tree/master/0037-sudoku-solver) |
 | [0066-plus-one](https://github.com/suriya911/Leet-Code-Problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/suriya911/Leet-Code-Problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/suriya911/Leet-Code-Problems/tree/master/0118-pascals-triangle) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/suriya911/Leet-Code-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/suriya911/Leet-Code-Problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/suriya911/Leet-Code-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/suriya911/Leet-Code-Problems/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/suriya911/Leet-Code-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/suriya911/Leet-Code-Problems/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/suriya911/Leet-Code-Problems/tree/master/0202-happy-number) |
@@ -696,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/suriya911/Leet-Code-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/suriya911/Leet-Code-Problems/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/suriya911/Leet-Code-Problems/tree/master/0037-sudoku-solver) |
 | [0494-target-sum](https://github.com/suriya911/Leet-Code-Problems/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/suriya911/Leet-Code-Problems/tree/master/0679-24-game) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/suriya911/Leet-Code-Problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -797,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/suriya911/Leet-Code-Problems/tree/master/0037-sudoku-solver) |
 | [0407-trapping-rain-water-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/suriya911/Leet-Code-Problems/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/suriya911/Leet-Code-Problems/tree/master/0854-making-a-large-island) |
