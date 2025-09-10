@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/suriya911/Leet-Code-Problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/suriya911/Leet-Code-Problems/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/suriya911/Leet-Code-Problems/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/suriya911/Leet-Code-Problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/suriya911/Leet-Code-Problems/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/suriya911/Leet-Code-Problems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/suriya911/Leet-Code-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/suriya911/Leet-Code-Problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1813-maximum-erasure-value](https://github.com/suriya911/Leet-Code-Problems/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/suriya911/Leet-Code-Problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1873-longest-nice-substring](https://github.com/suriya911/Leet-Code-Problems/tree/master/1873-longest-nice-substring) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/suriya911/Leet-Code-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/suriya911/Leet-Code-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/suriya911/Leet-Code-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/suriya911/Leet-Code-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/suriya911/Leet-Code-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/suriya911/Leet-Code-Problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/suriya911/Leet-Code-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/suriya911/Leet-Code-Problems/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/suriya911/Leet-Code-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
