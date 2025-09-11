@@ -9,16 +9,20 @@ public:
         }
         sort(vowels.begin(),vowels.end());
         int x=0;
-        for(int i=0;i<s.size();i++){
-            if(isVowel(s[i])){
-                s[i]=vowels[x++];
-            }
-        }
+        for (char& c : s)
+            if (isVowel(c))
+                c = vowels[x++];
 
         return s;
     }
     
-    bool isVowel(char c ){
-        return string("AEIOUaeiou").find(c) != string::npos;
+    bool isVowel(char c) {
+        switch (c) {
+            case 'A': case 'E': case 'I': case 'O': case 'U':
+            case 'a': case 'e': case 'i': case 'o': case 'u':
+                return true;
+            default:
+                return false;
+        }
     }
 };
