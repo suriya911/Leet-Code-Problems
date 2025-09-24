@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/suriya911/Leet-Code-Problems/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/suriya911/Leet-Code-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/suriya911/Leet-Code-Problems/tree/master/0149-max-points-on-a-line) |
+| [0166-fraction-to-recurring-decimal](https://github.com/suriya911/Leet-Code-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/suriya911/Leet-Code-Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/suriya911/Leet-Code-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/0219-contains-duplicate-ii) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/suriya911/Leet-Code-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/suriya911/Leet-Code-Problems/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/suriya911/Leet-Code-Problems/tree/master/0149-max-points-on-a-line) |
+| [0166-fraction-to-recurring-decimal](https://github.com/suriya911/Leet-Code-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/suriya911/Leet-Code-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/suriya911/Leet-Code-Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/suriya911/Leet-Code-Problems/tree/master/0202-happy-number) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/suriya911/Leet-Code-Problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/suriya911/Leet-Code-Problems/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/suriya911/Leet-Code-Problems/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/suriya911/Leet-Code-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/suriya911/Leet-Code-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0394-decode-string](https://github.com/suriya911/Leet-Code-Problems/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/suriya911/Leet-Code-Problems/tree/master/0649-dota2-senate) |
