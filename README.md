@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/suriya911/Leet-Code-Problems/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/suriya911/Leet-Code-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/suriya911/Leet-Code-Problems/tree/master/0787-sliding-puzzle) |
+| [0830-largest-triangle-area](https://github.com/suriya911/Leet-Code-Problems/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/suriya911/Leet-Code-Problems/tree/master/0854-making-a-large-island) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/suriya911/Leet-Code-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/suriya911/Leet-Code-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/suriya911/Leet-Code-Problems/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/suriya911/Leet-Code-Problems/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/suriya911/Leet-Code-Problems/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/suriya911/Leet-Code-Problems/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/suriya911/Leet-Code-Problems/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/suriya911/Leet-Code-Problems/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/suriya911/Leet-Code-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -877,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/suriya911/Leet-Code-Problems/tree/master/0149-max-points-on-a-line) |
+| [0830-largest-triangle-area](https://github.com/suriya911/Leet-Code-Problems/tree/master/0830-largest-triangle-area) |
 ## Graph
 |  |
 | ------- |
