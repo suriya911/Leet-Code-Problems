@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/suriya911/Leet-Code-Problems/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/suriya911/Leet-Code-Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/suriya911/Leet-Code-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3336-water-bottles-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/suriya911/Leet-Code-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/suriya911/Leet-Code-Problems/tree/master/2479-meeting-rooms-iii) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/suriya911/Leet-Code-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/suriya911/Leet-Code-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3336-water-bottles-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3336-water-bottles-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
