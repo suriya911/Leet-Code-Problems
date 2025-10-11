@@ -1,20 +1,27 @@
 class Solution {
 public:
     long long maximumTotalDamage(vector<int>& power) {
-        unordered_map<int, long long> freq;
-        for (int p : power) freq[p]++;
-        vector<int> keys;
-        for (auto& [k, _] : freq) keys.push_back(k);
-        sort(keys.begin(), keys.end());
-        int n = keys.size();
-        vector<long long> dp(n);
-        dp[0] = freq[keys[0]] * keys[0];
-        for (int i = 1; i < n; i++) {
-            long long take = freq[keys[i]] * keys[i];
-            int prev = upper_bound(keys.begin(), keys.begin() + i, keys[i] - 3) - keys.begin() - 1;
-            if (prev >= 0) take += dp[prev];
-            dp[i] = max(dp[i - 1], take);
+        int n = power.size();
+        sort(power.begin(), power.end());
+
+        vector<long long> dp(n, 0);
+        dp[0] = power[0];
+        long long ans = power[0];
+        long long maxPow = 0;
+
+        for(int i = 1, j = 0; i < n; i++){
+            if(power[i]==power[i-1]){
+                dp[i] = power[i] + dp[i-1];
+            }
+            else{
+                while(power[j]+2 < power[i]){
+                    maxPow = max(maxPow, dp[j]);
+                    j++;
+                }
+                dp[i] = maxPow + power[i];
+            }
+            ans = max(ans, dp[i]);
         }
-        return dp[n - 1];
+        return ans;
     }
 };
