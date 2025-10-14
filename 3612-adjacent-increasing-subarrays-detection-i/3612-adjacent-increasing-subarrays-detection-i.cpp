@@ -1,16 +1,23 @@
 class Solution {
 public:
-    bool hasIncreasingSubarrays(vector<int>& nums, int k) {
-        int n = nums.size(), inc = 1, prevInc = 0, maxLen = 0;
-        for (int i = 1; i < n; i++) {
-            if (nums[i] > nums[i - 1]) inc++;
-            else {
-                prevInc = inc;
-                inc = 1;
-            }
-            maxLen = max(maxLen, max(inc >> 1, min(prevInc, inc)));
-            if (maxLen >= k) return true;
-        }
-        return false;
+      
+bool isStrictlyIncreasing(const vector<int>& nums, int start, int k) {
+    for (int i = start; i < start + k - 1; i++) {
+        if (nums[i] >= nums[i + 1]) return false;
     }
+    return true;
+}
+
+bool hasIncreasingSubarrays(vector<int>& nums, int k) {
+    int n = nums.size();
+    if (n < 2 * k) return false; 
+
+    for (int i = 0; i <= n - 2 * k; i++) {
+        if (isStrictlyIncreasing(nums, i, k) && isStrictlyIncreasing(nums, i + k, k)) {
+            return true;
+        }
+    }
+
+    return false;
+}
 };
