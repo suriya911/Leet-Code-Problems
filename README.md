@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/suriya911/Leet-Code-Problems/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/suriya911/Leet-Code-Problems/tree/master/3195-separate-black-and-white-balls) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/suriya911/Leet-Code-Problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/suriya911/Leet-Code-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/suriya911/Leet-Code-Problems/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/suriya911/Leet-Code-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/suriya911/Leet-Code-Problems/tree/master/2792-neighboring-bitwise-xor) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/suriya911/Leet-Code-Problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3291-find-if-array-can-be-sorted](https://github.com/suriya911/Leet-Code-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/suriya911/Leet-Code-Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/suriya911/Leet-Code-Problems/tree/master/2554-minimum-total-distance-traveled) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/suriya911/Leet-Code-Problems/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/suriya911/Leet-Code-Problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/suriya911/Leet-Code-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/suriya911/Leet-Code-Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/suriya911/Leet-Code-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -1049,4 +1052,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/suriya911/Leet-Code-Problems/tree/master/3462-vowels-game-in-a-string) |
+## Bitmask
+|  |
+| ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/suriya911/Leet-Code-Problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 <!---LeetCode Topics End-->
