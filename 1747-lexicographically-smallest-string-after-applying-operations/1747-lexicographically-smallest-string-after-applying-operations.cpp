@@ -1,30 +1,26 @@
 class Solution {
 public:
     string findLexSmallestString(string s, int a, int b) {
-        unordered_set<string> vis;
-        string smallest = s;
-        queue<string> q;
-        q.push(s);
-        vis.insert(s);
-
-        while (!q.empty()) {
-            string cur = q.front(); q.pop();
-            if (cur < smallest) smallest = cur;
-
-            string added = cur;
-            for (int i = 1; i < added.size(); i += 2)
-                added[i] = ((added[i] - '0' + a) % 10) + '0';
-            if (!vis.count(added)) {
-                vis.insert(added);
-                q.push(added);
-            }
-
-            string rotated = cur.substr(cur.size() - b) + cur.substr(0, cur.size() - b);
-            if (!vis.count(rotated)) {
-                vis.insert(rotated);
-                q.push(rotated);
+        int stringLength = s.size();
+        string smallestLexString = s; 
+        for (int i = 0; i < stringLength; ++i) {
+            s = s.substr(stringLength - b) + s.substr(0, stringLength - b);
+            for (int j = 0; j < 10; ++j) {
+                for (int k = 1; k < stringLength; k += 2) {
+                    s[k] = ((s[k] - '0' + a) % 10) + '0';
+                }
+                if (b % 2 == 1) {
+                    for (int p = 0; p < 10; ++p) {
+                        for (int k = 0; k < stringLength; k += 2) {
+                            s[k] = ((s[k] - '0' + a) % 10) + '0';
+                        }
+                        smallestLexString = min(smallestLexString, s);
+                    }
+                } else {
+                    smallestLexString = min(smallestLexString, s);
+                }
             }
         }
-        return smallest;
+        return smallestLexString;
     }
 };
