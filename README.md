@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/suriya911/Leet-Code-Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/suriya911/Leet-Code-Problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/suriya911/Leet-Code-Problems/tree/master/0231-power-of-two) |
+| [0292-nim-game](https://github.com/suriya911/Leet-Code-Problems/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/suriya911/Leet-Code-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/suriya911/Leet-Code-Problems/tree/master/0342-power-of-four) |
 | [0670-maximum-swap](https://github.com/suriya911/Leet-Code-Problems/tree/master/0670-maximum-swap) |
@@ -1043,6 +1044,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/suriya911/Leet-Code-Problems/tree/master/0292-nim-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/suriya911/Leet-Code-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/suriya911/Leet-Code-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3462-vowels-game-in-a-string](https://github.com/suriya911/Leet-Code-Problems/tree/master/3462-vowels-game-in-a-string) |
@@ -1101,6 +1103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/suriya911/Leet-Code-Problems/tree/master/0292-nim-game) |
 | [3462-vowels-game-in-a-string](https://github.com/suriya911/Leet-Code-Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
 |  |
