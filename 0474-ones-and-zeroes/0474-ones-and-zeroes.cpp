@@ -1,36 +1,28 @@
 class Solution {
 public:
     int findMaxForm(vector<string>& strs, int m, int n) {
-        map<pair<int, int>, int> dp;
-        dp[{0, 0}] = 0;
-
-        for (auto &s : strs) {
-            int zeros = 0, ones = 0;
-            for (char c : s) {
-                if (c == '0') zeros++;
-                else ones++;
+        int dp[105][105];
+        int ans = 0;
+        memset(dp, 0, sizeof(dp));
+        for (auto str : strs) {
+            int ones = 0, zeroes = 0;
+            for (auto c : str) {
+                if (c == '1') ones++;
+                if (c == '0') zeroes++;
             }
-
-            map<pair<int, int>, int> newdp;
-
-            for (auto &[state, val] : dp) {
-                int used0 = state.first + zeros;
-                int used1 = state.second + ones;
-
-                if (used0 <= m && used1 <= n) {
-                    if (!dp.count({used0, used1}) || dp[{used0, used1}] < val + 1) {
-                        newdp[{used0, used1}] = val + 1;
+            for (int i = m; i >= 0; i--) {
+                for (int j = n; j >= 0; j--) {
+                    if (i - zeroes >= 0 && j - ones >= 0 && dp[i - zeroes][j - ones]) {
+                        dp[i][j] = max(dp[i][j], 1 + dp[i - zeroes][j - ones]);
+                        ans = max(ans, dp[i][j]);
                     }
                 }
             }
-
-            for (auto &[state, val] : newdp) {
-                dp[state] = max(dp[state], val);
+            if (zeroes <= m && ones <= n) {
+                dp[zeroes][ones] = max(dp[zeroes][ones], 1);
+                ans = max(ans, dp[zeroes][ones]);
             }
         }
-
-        int ans = 0;
-        for (auto &[_, val] : dp) ans = max(ans, val);
         return ans;
     }
 };
