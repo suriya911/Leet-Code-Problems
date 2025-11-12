@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/suriya911/Leet-Code-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/suriya911/Leet-Code-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/suriya911/Leet-Code-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2705-minimum-impossible-or](https://github.com/suriya911/Leet-Code-Problems/tree/master/2705-minimum-impossible-or) |
 | [2716-prime-subtraction-operation](https://github.com/suriya911/Leet-Code-Problems/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/suriya911/Leet-Code-Problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/suriya911/Leet-Code-Problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2509-minimize-xor](https://github.com/suriya911/Leet-Code-Problems/tree/master/2509-minimize-xor) |
 | [2529-range-product-queries-of-powers](https://github.com/suriya911/Leet-Code-Problems/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/suriya911/Leet-Code-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2705-minimum-impossible-or](https://github.com/suriya911/Leet-Code-Problems/tree/master/2705-minimum-impossible-or) |
 | [2792-neighboring-bitwise-xor](https://github.com/suriya911/Leet-Code-Problems/tree/master/2792-neighboring-bitwise-xor) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/suriya911/Leet-Code-Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/suriya911/Leet-Code-Problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -1064,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/suriya911/Leet-Code-Problems/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/suriya911/Leet-Code-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/suriya911/Leet-Code-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2705-minimum-impossible-or](https://github.com/suriya911/Leet-Code-Problems/tree/master/2705-minimum-impossible-or) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/suriya911/Leet-Code-Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2850-construct-the-longest-new-string](https://github.com/suriya911/Leet-Code-Problems/tree/master/2850-construct-the-longest-new-string) |
 | [3462-vowels-game-in-a-string](https://github.com/suriya911/Leet-Code-Problems/tree/master/3462-vowels-game-in-a-string) |
