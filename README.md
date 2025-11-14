@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/suriya911/Leet-Code-Problems/tree/master/0149-max-points-on-a-line) |
 | [0217-contains-duplicate](https://github.com/suriya911/Leet-Code-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0321-create-maximum-number](https://github.com/suriya911/Leet-Code-Problems/tree/master/0321-create-maximum-number) |
 | [0407-trapping-rain-water-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/suriya911/Leet-Code-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/suriya911/Leet-Code-Problems/tree/master/0474-ones-and-zeroes) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/suriya911/Leet-Code-Problems/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/suriya911/Leet-Code-Problems/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/suriya911/Leet-Code-Problems/tree/master/0202-happy-number) |
+| [0321-create-maximum-number](https://github.com/suriya911/Leet-Code-Problems/tree/master/0321-create-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/suriya911/Leet-Code-Problems/tree/master/0611-valid-triangle-number) |
 | [0868-push-dominoes](https://github.com/suriya911/Leet-Code-Problems/tree/master/0868-push-dominoes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/suriya911/Leet-Code-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/suriya911/Leet-Code-Problems/tree/master/0321-create-maximum-number) |
 | [0394-decode-string](https://github.com/suriya911/Leet-Code-Problems/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/suriya911/Leet-Code-Problems/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/suriya911/Leet-Code-Problems/tree/master/0780-max-chunks-to-make-sorted) |
@@ -693,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/suriya911/Leet-Code-Problems/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/suriya911/Leet-Code-Problems/tree/master/0135-candy) |
+| [0321-create-maximum-number](https://github.com/suriya911/Leet-Code-Problems/tree/master/0321-create-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/suriya911/Leet-Code-Problems/tree/master/0611-valid-triangle-number) |
 | [0649-dota2-senate](https://github.com/suriya911/Leet-Code-Problems/tree/master/0649-dota2-senate) |
 | [0670-maximum-swap](https://github.com/suriya911/Leet-Code-Problems/tree/master/0670-maximum-swap) |
@@ -772,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/suriya911/Leet-Code-Problems/tree/master/0321-create-maximum-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/suriya911/Leet-Code-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/suriya911/Leet-Code-Problems/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/suriya911/Leet-Code-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
