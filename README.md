@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/suriya911/Leet-Code-Problems/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/suriya911/Leet-Code-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/suriya911/Leet-Code-Problems/tree/master/0342-power-of-four) |
+| [0464-can-i-win](https://github.com/suriya911/Leet-Code-Problems/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/suriya911/Leet-Code-Problems/tree/master/0486-predict-the-winner) |
 | [0670-maximum-swap](https://github.com/suriya911/Leet-Code-Problems/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/suriya911/Leet-Code-Problems/tree/master/0679-24-game) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/suriya911/Leet-Code-Problems/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/suriya911/Leet-Code-Problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/suriya911/Leet-Code-Problems/tree/master/0342-power-of-four) |
+| [0464-can-i-win](https://github.com/suriya911/Leet-Code-Problems/tree/master/0464-can-i-win) |
 | [0828-chalkboard-xor-game](https://github.com/suriya911/Leet-Code-Problems/tree/master/0828-chalkboard-xor-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/suriya911/Leet-Code-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1873-longest-nice-substring](https://github.com/suriya911/Leet-Code-Problems/tree/master/1873-longest-nice-substring) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/suriya911/Leet-Code-Problems/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/suriya911/Leet-Code-Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/suriya911/Leet-Code-Problems/tree/master/0118-pascals-triangle) |
+| [0464-can-i-win](https://github.com/suriya911/Leet-Code-Problems/tree/master/0464-can-i-win) |
 | [0474-ones-and-zeroes](https://github.com/suriya911/Leet-Code-Problems/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/suriya911/Leet-Code-Problems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/suriya911/Leet-Code-Problems/tree/master/0494-target-sum) |
@@ -847,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/suriya911/Leet-Code-Problems/tree/master/0070-climbing-stairs) |
+| [0464-can-i-win](https://github.com/suriya911/Leet-Code-Problems/tree/master/0464-can-i-win) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/suriya911/Leet-Code-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/suriya911/Leet-Code-Problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/suriya911/Leet-Code-Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -1147,11 +1151,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/suriya911/Leet-Code-Problems/tree/master/0292-nim-game) |
+| [0464-can-i-win](https://github.com/suriya911/Leet-Code-Problems/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/suriya911/Leet-Code-Problems/tree/master/0486-predict-the-winner) |
 | [0828-chalkboard-xor-game](https://github.com/suriya911/Leet-Code-Problems/tree/master/0828-chalkboard-xor-game) |
 | [3462-vowels-game-in-a-string](https://github.com/suriya911/Leet-Code-Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/suriya911/Leet-Code-Problems/tree/master/0464-can-i-win) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/suriya911/Leet-Code-Problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 <!---LeetCode Topics End-->
