@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/suriya911/Leet-Code-Problems/tree/master/3748-sort-matrix-by-diagonals) |
+| [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/suriya911/Leet-Code-Problems/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/suriya911/Leet-Code-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/suriya911/Leet-Code-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3790-fruits-into-baskets-ii) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/suriya911/Leet-Code-Problems/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/suriya911/Leet-Code-Problems/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/suriya911/Leet-Code-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/suriya911/Leet-Code-Problems/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
 |  |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/suriya911/Leet-Code-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3647-zero-array-transformation-iii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3647-zero-array-transformation-iii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/suriya911/Leet-Code-Problems/tree/master/3748-sort-matrix-by-diagonals) |
+| [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/suriya911/Leet-Code-Problems/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -758,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/suriya911/Leet-Code-Problems/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/suriya911/Leet-Code-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sliding Window
 |  |
@@ -1169,6 +1173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/suriya911/Leet-Code-Problems/tree/master/0909-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/suriya911/Leet-Code-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/suriya911/Leet-Code-Problems/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/suriya911/Leet-Code-Problems/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
 ## Bitmask
 |  |
 | ------- |
