@@ -1,15 +1,14 @@
-class Solution:
-    def countPalindromicSubsequence(self, s: str) -> int:   
-        if len(s) <= 2:
-            return 0
-
-        chars = set(s)
-        res = 0
-        for ch in chars:
-            first = s.find(ch)
-            last = s.rfind(ch)
-
-            if first != last:
-                res += len(set(s[first + 1:last]))
-
-        return res
+class Solution(object):
+    def countPalindromicSubsequence(self, s):
+        d=defaultdict(list)
+        for i,c in enumerate(s):
+            d[c].append(i)
+        ans=0
+        for el in d:
+            if len(d[el])<2:
+                continue
+            a=d[el][0]
+            b=d[el][-1]
+            ans+=len(set(s[a+1:b]))
+        return(ans)
+		
