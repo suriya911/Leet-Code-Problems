@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/suriya911/Leet-Code-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/suriya911/Leet-Code-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/suriya911/Leet-Code-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/suriya911/Leet-Code-Problems/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/suriya911/Leet-Code-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/suriya911/Leet-Code-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/suriya911/Leet-Code-Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/suriya911/Leet-Code-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/suriya911/Leet-Code-Problems/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1448-maximum-69-number](https://github.com/suriya911/Leet-Code-Problems/tree/master/1448-maximum-69-number) |
+| [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/suriya911/Leet-Code-Problems/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1500-count-largest-group](https://github.com/suriya911/Leet-Code-Problems/tree/master/1500-count-largest-group) |
 | [1642-water-bottles](https://github.com/suriya911/Leet-Code-Problems/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/suriya911/Leet-Code-Problems/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -633,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/suriya911/Leet-Code-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/suriya911/Leet-Code-Problems/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/suriya911/Leet-Code-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/suriya911/Leet-Code-Problems/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/suriya911/Leet-Code-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/suriya911/Leet-Code-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/suriya911/Leet-Code-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -881,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/suriya911/Leet-Code-Problems/tree/master/0037-sudoku-solver) |
 | [0494-target-sum](https://github.com/suriya911/Leet-Code-Problems/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/suriya911/Leet-Code-Problems/tree/master/0679-24-game) |
+| [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/suriya911/Leet-Code-Problems/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/suriya911/Leet-Code-Problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/suriya911/Leet-Code-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/suriya911/Leet-Code-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -1157,6 +1161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/suriya911/Leet-Code-Problems/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/suriya911/Leet-Code-Problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3637-count-number-of-balanced-permutations](https://github.com/suriya911/Leet-Code-Problems/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/suriya911/Leet-Code-Problems/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -1166,6 +1171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0826-soup-servings](https://github.com/suriya911/Leet-Code-Problems/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/suriya911/Leet-Code-Problems/tree/master/0867-new-21-game) |
+| [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/suriya911/Leet-Code-Problems/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 ## Game Theory
 |  |
 | ------- |
