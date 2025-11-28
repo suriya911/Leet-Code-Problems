@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/suriya911/Leet-Code-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/suriya911/Leet-Code-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/suriya911/Leet-Code-Problems/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/suriya911/Leet-Code-Problems/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/suriya911/Leet-Code-Problems/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/suriya911/Leet-Code-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/suriya911/Leet-Code-Problems/tree/master/0168-excel-sheet-column-title) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/suriya911/Leet-Code-Problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/suriya911/Leet-Code-Problems/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/suriya911/Leet-Code-Problems/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/suriya911/Leet-Code-Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/suriya911/Leet-Code-Problems/tree/master/0191-number-of-1-bits) |
@@ -890,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/suriya911/Leet-Code-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/suriya911/Leet-Code-Problems/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/suriya911/Leet-Code-Problems/tree/master/0037-sudoku-solver) |
+| [0089-gray-code](https://github.com/suriya911/Leet-Code-Problems/tree/master/0089-gray-code) |
 | [0494-target-sum](https://github.com/suriya911/Leet-Code-Problems/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/suriya911/Leet-Code-Problems/tree/master/0679-24-game) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/suriya911/Leet-Code-Problems/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
