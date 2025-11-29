@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/suriya911/Leet-Code-Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/suriya911/Leet-Code-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/suriya911/Leet-Code-Problems/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/suriya911/Leet-Code-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/suriya911/Leet-Code-Problems/tree/master/0383-ransom-note) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/suriya911/Leet-Code-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/suriya911/Leet-Code-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/suriya911/Leet-Code-Problems/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/suriya911/Leet-Code-Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/suriya911/Leet-Code-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/suriya911/Leet-Code-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/suriya911/Leet-Code-Problems/tree/master/0389-find-the-difference) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/suriya911/Leet-Code-Problems/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/suriya911/Leet-Code-Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/suriya911/Leet-Code-Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/suriya911/Leet-Code-Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/suriya911/Leet-Code-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/suriya911/Leet-Code-Problems/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/suriya911/Leet-Code-Problems/tree/master/0594-longest-harmonious-subsequence) |
