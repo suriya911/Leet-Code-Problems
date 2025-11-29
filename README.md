@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/suriya911/Leet-Code-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/suriya911/Leet-Code-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/suriya911/Leet-Code-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/suriya911/Leet-Code-Problems/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/suriya911/Leet-Code-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
