@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/suriya911/Leet-Code-Problems/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/suriya911/Leet-Code-Problems/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/suriya911/Leet-Code-Problems/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/suriya911/Leet-Code-Problems/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/0264-ugly-number-ii) |
 | [0292-nim-game](https://github.com/suriya911/Leet-Code-Problems/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/suriya911/Leet-Code-Problems/tree/master/0326-power-of-three) |
