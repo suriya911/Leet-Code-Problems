@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/suriya911/Leet-Code-Problems/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/suriya911/Leet-Code-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/suriya911/Leet-Code-Problems/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/suriya911/Leet-Code-Problems/tree/master/0415-add-strings) |
 | [0464-can-i-win](https://github.com/suriya911/Leet-Code-Problems/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/suriya911/Leet-Code-Problems/tree/master/0486-predict-the-winner) |
 | [0670-maximum-swap](https://github.com/suriya911/Leet-Code-Problems/tree/master/0670-maximum-swap) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/suriya911/Leet-Code-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/suriya911/Leet-Code-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0394-decode-string](https://github.com/suriya911/Leet-Code-Problems/tree/master/0394-decode-string) |
+| [0415-add-strings](https://github.com/suriya911/Leet-Code-Problems/tree/master/0415-add-strings) |
 | [0474-ones-and-zeroes](https://github.com/suriya911/Leet-Code-Problems/tree/master/0474-ones-and-zeroes) |
 | [0649-dota2-senate](https://github.com/suriya911/Leet-Code-Problems/tree/master/0649-dota2-senate) |
 | [0868-push-dominoes](https://github.com/suriya911/Leet-Code-Problems/tree/master/0868-push-dominoes) |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/suriya911/Leet-Code-Problems/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/suriya911/Leet-Code-Problems/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/suriya911/Leet-Code-Problems/tree/master/0735-asteroid-collision) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/suriya911/Leet-Code-Problems/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1642-water-bottles](https://github.com/suriya911/Leet-Code-Problems/tree/master/1642-water-bottles) |
