@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/suriya911/Leet-Code-Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/suriya911/Leet-Code-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0264-ugly-number-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/0264-ugly-number-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/suriya911/Leet-Code-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/suriya911/Leet-Code-Problems/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/suriya911/Leet-Code-Problems/tree/master/0940-fruit-into-baskets) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/suriya911/Leet-Code-Problems/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/suriya911/Leet-Code-Problems/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/suriya911/Leet-Code-Problems/tree/master/0231-power-of-two) |
+| [0264-ugly-number-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/0264-ugly-number-ii) |
 | [0292-nim-game](https://github.com/suriya911/Leet-Code-Problems/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/suriya911/Leet-Code-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/suriya911/Leet-Code-Problems/tree/master/0342-power-of-four) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/suriya911/Leet-Code-Problems/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/suriya911/Leet-Code-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/suriya911/Leet-Code-Problems/tree/master/0118-pascals-triangle) |
+| [0264-ugly-number-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/0264-ugly-number-ii) |
 | [0464-can-i-win](https://github.com/suriya911/Leet-Code-Problems/tree/master/0464-can-i-win) |
 | [0474-ones-and-zeroes](https://github.com/suriya911/Leet-Code-Problems/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/suriya911/Leet-Code-Problems/tree/master/0486-predict-the-winner) |
@@ -834,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/0264-ugly-number-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/suriya911/Leet-Code-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/suriya911/Leet-Code-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
