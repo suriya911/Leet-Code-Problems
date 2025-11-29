@@ -1,12 +1,13 @@
+from collections import Counter
 class Solution:
     def firstUniqChar(self, s: str) -> int:
-        freq={}
+        result = float("inf")
 
-        for c in s:
-            freq[c] = 1+ freq.get(c,0)
+        for char in ascii_lowercase:
+            first = s.find(char)
+            last = s.rfind(char)
 
-        for i,c in enumerate(s):
-            if freq[c] == 1:
-                return i
-        
-        return -1
+            if first!=-1 and first == last:
+                result = min(result, first)
+
+        return -1 if result == float("inf") else result
