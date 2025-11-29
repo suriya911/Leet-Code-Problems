@@ -5,15 +5,16 @@
 #          otherwise return 0
 # def guess(num: int) -> int:
 
-class Solution(object):
-    def guessNumber(self, n):
-        left, right = 1, n
-        while left <= right:
-            mid = (left + right) // 2
-            result = guess(mid)
-            if result == 0:
+class Solution:
+    def guessNumber(self, n: int) -> int:
+        l, r = 1, n
+        while l <= r:
+            mid = (l+r)//2
+            if guess(mid)==0:
                 return mid
-            elif result == -1:
-                right = mid - 1
+            if guess(mid)==-1:
+                r = mid - 1
             else:
-                left = mid + 1
+                l = mid + 1
+
+        
