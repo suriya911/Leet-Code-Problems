@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/suriya911/Leet-Code-Problems/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/suriya911/Leet-Code-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0735-asteroid-collision](https://github.com/suriya911/Leet-Code-Problems/tree/master/0735-asteroid-collision) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/suriya911/Leet-Code-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0759-set-intersection-size-at-least-two](https://github.com/suriya911/Leet-Code-Problems/tree/master/0759-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/suriya911/Leet-Code-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/suriya911/Leet-Code-Problems/tree/master/0787-sliding-puzzle) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/suriya911/Leet-Code-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/suriya911/Leet-Code-Problems/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suriya911/Leet-Code-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/suriya911/Leet-Code-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0759-set-intersection-size-at-least-two](https://github.com/suriya911/Leet-Code-Problems/tree/master/0759-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/suriya911/Leet-Code-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0900-reordered-power-of-2](https://github.com/suriya911/Leet-Code-Problems/tree/master/0900-reordered-power-of-2) |
