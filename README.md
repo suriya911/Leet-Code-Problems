@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/suriya911/Leet-Code-Problems/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/suriya911/Leet-Code-Problems/tree/master/0854-making-a-large-island) |
 | [0873-guess-the-word](https://github.com/suriya911/Leet-Code-Problems/tree/master/0873-guess-the-word) |
+| [0888-fair-candy-swap](https://github.com/suriya911/Leet-Code-Problems/tree/master/0888-fair-candy-swap) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/suriya911/Leet-Code-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0909-stone-game](https://github.com/suriya911/Leet-Code-Problems/tree/master/0909-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/suriya911/Leet-Code-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/suriya911/Leet-Code-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/suriya911/Leet-Code-Problems/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/suriya911/Leet-Code-Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0888-fair-candy-swap](https://github.com/suriya911/Leet-Code-Problems/tree/master/0888-fair-candy-swap) |
 | [0900-reordered-power-of-2](https://github.com/suriya911/Leet-Code-Problems/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/suriya911/Leet-Code-Problems/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/suriya911/Leet-Code-Problems/tree/master/0952-word-subsets) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/suriya911/Leet-Code-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/suriya911/Leet-Code-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0611-valid-triangle-number](https://github.com/suriya911/Leet-Code-Problems/tree/master/0611-valid-triangle-number) |
+| [0888-fair-candy-swap](https://github.com/suriya911/Leet-Code-Problems/tree/master/0888-fair-candy-swap) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/suriya911/Leet-Code-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/suriya911/Leet-Code-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1612-avoid-flood-in-the-city](https://github.com/suriya911/Leet-Code-Problems/tree/master/1612-avoid-flood-in-the-city) |
@@ -564,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/suriya911/Leet-Code-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0759-set-intersection-size-at-least-two](https://github.com/suriya911/Leet-Code-Problems/tree/master/0759-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/suriya911/Leet-Code-Problems/tree/master/0780-max-chunks-to-make-sorted) |
+| [0888-fair-candy-swap](https://github.com/suriya911/Leet-Code-Problems/tree/master/0888-fair-candy-swap) |
 | [0900-reordered-power-of-2](https://github.com/suriya911/Leet-Code-Problems/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/suriya911/Leet-Code-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/suriya911/Leet-Code-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
