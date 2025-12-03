@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/suriya911/Leet-Code-Problems/tree/master/1448-maximum-69-number) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/suriya911/Leet-Code-Problems/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1500-count-largest-group](https://github.com/suriya911/Leet-Code-Problems/tree/master/1500-count-largest-group) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/suriya911/Leet-Code-Problems/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/suriya911/Leet-Code-Problems/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/suriya911/Leet-Code-Problems/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2156-stone-game-ix](https://github.com/suriya911/Leet-Code-Problems/tree/master/2156-stone-game-ix) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/suriya911/Leet-Code-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/suriya911/Leet-Code-Problems/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/suriya911/Leet-Code-Problems/tree/master/1502-construct-k-palindrome-strings) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/suriya911/Leet-Code-Problems/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1524-string-matching-in-an-array](https://github.com/suriya911/Leet-Code-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/suriya911/Leet-Code-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/suriya911/Leet-Code-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
