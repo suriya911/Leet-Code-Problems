@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/suriya911/Leet-Code-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/suriya911/Leet-Code-Problems/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/suriya911/Leet-Code-Problems/tree/master/0679-24-game) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/suriya911/Leet-Code-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0826-soup-servings](https://github.com/suriya911/Leet-Code-Problems/tree/master/0826-soup-servings) |
 | [0828-chalkboard-xor-game](https://github.com/suriya911/Leet-Code-Problems/tree/master/0828-chalkboard-xor-game) |
 | [0830-largest-triangle-area](https://github.com/suriya911/Leet-Code-Problems/tree/master/0830-largest-triangle-area) |
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/suriya911/Leet-Code-Problems/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/suriya911/Leet-Code-Problems/tree/master/0389-find-the-difference) |
 | [0464-can-i-win](https://github.com/suriya911/Leet-Code-Problems/tree/master/0464-can-i-win) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/suriya911/Leet-Code-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0828-chalkboard-xor-game](https://github.com/suriya911/Leet-Code-Problems/tree/master/0828-chalkboard-xor-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/suriya911/Leet-Code-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/suriya911/Leet-Code-Problems/tree/master/1018-binary-prefix-divisible-by-5) |
