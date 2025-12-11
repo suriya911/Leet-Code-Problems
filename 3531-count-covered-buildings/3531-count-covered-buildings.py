@@ -1,26 +1,33 @@
 class Solution:
     def countCoveredBuildings(self, n: int, buildings: List[List[int]]) -> int:
-        dict_x = dict()
-        dict_y = dict()
+        minRowIndices = [n + 1] * (n + 1)
+        maxRowIndices = [0] * (n + 1)
+        minColIndices = [n + 1] * (n + 1)
+        maxColIndices = [0] * (n + 1)
 
         for building in buildings:
+            row = building[0]
+            col = building[1]
 
-            if(building[0] not in dict_x):
-                dict_x[building[0]] = SortedList([building[1]])
-            else:
-                dict_x[building[0]].add(building[1])
+            if row < minRowIndices[col]:
+                minRowIndices[col] = row
+            if row > maxRowIndices[col]:
+                maxRowIndices[col] = row
 
-            if(building[1] not in dict_y):
-                dict_y[building[1]] = SortedList([building[0]])
-            else:
-                dict_y[building[1]].add(building[0])
-        
-        ans = 0        
+            if col < minColIndices[row]:
+                minColIndices[row] = col
+            if col > maxColIndices[row]:
+                maxColIndices[row] = col
+
+        count = 0
         for building in buildings:
-            x = building[0]
-            y = building[1]
+            row = building[0]
+            col = building[1]
 
-            if(dict_x[x][0] != y and dict_x[x][-1] != y and dict_y[y][0] != x and dict_y[y][-1] != x):
-                ans += 1
-        
-        return ans
+            if (minRowIndices[col] < row and
+                maxRowIndices[col] > row and
+                minColIndices[row] < col and
+                maxColIndices[row] > col):
+                count += 1
+
+        return count
