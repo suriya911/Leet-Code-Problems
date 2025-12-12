@@ -1,24 +1,23 @@
 class Solution:
-    def countMentions(self, n: int, events: List[List[str]]) -> List[int]:
-        mentions = [0]*n
-        back = [0]*n
-        events.sort(key=lambda e: (int(e[1]), e[0]=="MESSAGE"))
-
-        for typ, t, data in events:
-            t = int(t)
-            if typ == "OFFLINE":
-                back[int(data)] = t + 60
-                continue
-
-            for tok in data.split():
-                if tok == "ALL":
-                    for u in range(n):
-                        mentions[u] += 1
-                elif tok == "HERE":
-                    for u in range(n):
-                        if t >= back[u]:
-                            mentions[u] += 1
-                else:  
-                    mentions[int(tok[2:])] += 1
-
+    def countMentions(self, numberOfUsers: int, events: List[List[str]]) -> List[int]:
+        events.sort(key = lambda x: (int(x[1]), x[0] == "MESSAGE"))
+        online_lst = [0] * numberOfUsers
+        mentions = [0] * numberOfUsers
+        all_num = 0
+        for event in events:
+            if "MESSAGE" == event[0]:
+                if "ALL" == event[2]:
+                    all_num += 1
+                elif "HERE" == event[2]:
+                    time = int(event[1])
+                    for i in range(numberOfUsers):
+                        if online_lst[i] <= time:
+                            mentions[i] += 1
+                else:
+                    for i in event[2].split():
+                        mentions[int(i[2:])] += 1
+            else:
+                online_lst[int(event[2])] = int(event[1]) + 60
+        for i in range(numberOfUsers):
+            mentions[i] += all_num
         return mentions
