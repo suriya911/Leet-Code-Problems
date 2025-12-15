@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/suriya911/Leet-Code-Problems/tree/master/0909-stone-game) |
 | [1018-largest-perimeter-triangle](https://github.com/suriya911/Leet-Code-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1093-statistics-from-a-large-sample](https://github.com/suriya911/Leet-Code-Problems/tree/master/1093-statistics-from-a-large-sample) |
+| [1154-day-of-the-year](https://github.com/suriya911/Leet-Code-Problems/tree/master/1154-day-of-the-year) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/suriya911/Leet-Code-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/suriya911/Leet-Code-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/suriya911/Leet-Code-Problems/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/suriya911/Leet-Code-Problems/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/suriya911/Leet-Code-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1006-vowel-spellchecker](https://github.com/suriya911/Leet-Code-Problems/tree/master/1006-vowel-spellchecker) |
+| [1154-day-of-the-year](https://github.com/suriya911/Leet-Code-Problems/tree/master/1154-day-of-the-year) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/suriya911/Leet-Code-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/suriya911/Leet-Code-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/suriya911/Leet-Code-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
