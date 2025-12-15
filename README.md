@@ -777,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/suriya911/Leet-Code-Problems/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/suriya911/Leet-Code-Problems/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/suriya911/Leet-Code-Problems/tree/master/0780-max-chunks-to-make-sorted) |
+| [0901-online-stock-span](https://github.com/suriya911/Leet-Code-Problems/tree/master/0901-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/suriya911/Leet-Code-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/suriya911/Leet-Code-Problems/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/suriya911/Leet-Code-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -917,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0321-create-maximum-number](https://github.com/suriya911/Leet-Code-Problems/tree/master/0321-create-maximum-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/suriya911/Leet-Code-Problems/tree/master/0780-max-chunks-to-make-sorted) |
+| [0901-online-stock-span](https://github.com/suriya911/Leet-Code-Problems/tree/master/0901-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/suriya911/Leet-Code-Problems/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/suriya911/Leet-Code-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/suriya911/Leet-Code-Problems/tree/master/1628-count-submatrices-with-all-ones) |
@@ -1044,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/suriya911/Leet-Code-Problems/tree/master/0901-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/suriya911/Leet-Code-Problems/tree/master/0969-number-of-recent-calls) |
 | [2023-design-movie-rental-system](https://github.com/suriya911/Leet-Code-Problems/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/suriya911/Leet-Code-Problems/tree/master/2169-simple-bank-system) |
@@ -1065,6 +1068,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/suriya911/Leet-Code-Problems/tree/master/0901-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/suriya911/Leet-Code-Problems/tree/master/0969-number-of-recent-calls) |
 ## Counting
 |  |
