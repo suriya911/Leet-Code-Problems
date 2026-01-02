@@ -1,8 +1,7 @@
 class Solution:
-    def repeatedNTimes(self, nums: List[int]) -> int:
-        s=len(nums)//2
-        d=set(nums)
-        for i in d:
-            if nums.count(i)==s:
+    def repeatedNTimes(self, a: List[int]) -> int:
+        d={}
+        for i in a:
+            if i in d:
                 return i
-        return 0
+            d[i]=1
