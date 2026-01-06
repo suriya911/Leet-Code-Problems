@@ -1029,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/suriya911/Leet-Code-Problems/tree/master/0096-unique-binary-search-trees) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/suriya911/Leet-Code-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/suriya911/Leet-Code-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/suriya911/Leet-Code-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/suriya911/Leet-Code-Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -1045,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/suriya911/Leet-Code-Problems/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/suriya911/Leet-Code-Problems/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/suriya911/Leet-Code-Problems/tree/master/0945-snakes-and-ladders) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/suriya911/Leet-Code-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/suriya911/Leet-Code-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/suriya911/Leet-Code-Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/suriya911/Leet-Code-Problems/tree/master/1558-course-schedule-iv) |
@@ -1062,6 +1064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/suriya911/Leet-Code-Problems/tree/master/0096-unique-binary-search-trees) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/suriya911/Leet-Code-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/suriya911/Leet-Code-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Design
 |  |
@@ -1220,6 +1223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/suriya911/Leet-Code-Problems/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/suriya911/Leet-Code-Problems/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/suriya911/Leet-Code-Problems/tree/master/0854-making-a-large-island) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/suriya911/Leet-Code-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/suriya911/Leet-Code-Problems/tree/master/1192-critical-connections-in-a-network) |
 | [1396-count-servers-that-communicate](https://github.com/suriya911/Leet-Code-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/suriya911/Leet-Code-Problems/tree/master/1558-course-schedule-iv) |
