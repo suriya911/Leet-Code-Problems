@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/suriya911/Leet-Code-Problems/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/suriya911/Leet-Code-Problems/tree/master/0037-sudoku-solver) |
 | [0066-plus-one](https://github.com/suriya911/Leet-Code-Problems/tree/master/0066-plus-one) |
+| [0085-maximal-rectangle](https://github.com/suriya911/Leet-Code-Problems/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/suriya911/Leet-Code-Problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/suriya911/Leet-Code-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suriya911/Leet-Code-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -732,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/suriya911/Leet-Code-Problems/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/suriya911/Leet-Code-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/suriya911/Leet-Code-Problems/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/suriya911/Leet-Code-Problems/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/suriya911/Leet-Code-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/suriya911/Leet-Code-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suriya911/Leet-Code-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -795,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/suriya911/Leet-Code-Problems/tree/master/0085-maximal-rectangle) |
 | [0321-create-maximum-number](https://github.com/suriya911/Leet-Code-Problems/tree/master/0321-create-maximum-number) |
 | [0394-decode-string](https://github.com/suriya911/Leet-Code-Problems/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/suriya911/Leet-Code-Problems/tree/master/0735-asteroid-collision) |
@@ -939,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/suriya911/Leet-Code-Problems/tree/master/0085-maximal-rectangle) |
 | [0321-create-maximum-number](https://github.com/suriya911/Leet-Code-Problems/tree/master/0321-create-maximum-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/suriya911/Leet-Code-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0901-online-stock-span](https://github.com/suriya911/Leet-Code-Problems/tree/master/0901-online-stock-span) |
@@ -1160,6 +1164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/suriya911/Leet-Code-Problems/tree/master/0037-sudoku-solver) |
+| [0085-maximal-rectangle](https://github.com/suriya911/Leet-Code-Problems/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/suriya911/Leet-Code-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0787-sliding-puzzle](https://github.com/suriya911/Leet-Code-Problems/tree/master/0787-sliding-puzzle) |
