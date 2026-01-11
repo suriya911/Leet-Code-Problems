@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/suriya911/Leet-Code-Problems/tree/master/0909-stone-game) |
 | [1018-largest-perimeter-triangle](https://github.com/suriya911/Leet-Code-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1093-statistics-from-a-large-sample](https://github.com/suriya911/Leet-Code-Problems/tree/master/1093-statistics-from-a-large-sample) |
+| [1103-distribute-candies-to-people](https://github.com/suriya911/Leet-Code-Problems/tree/master/1103-distribute-candies-to-people) |
 | [1154-day-of-the-year](https://github.com/suriya911/Leet-Code-Problems/tree/master/1154-day-of-the-year) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/suriya911/Leet-Code-Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1390-four-divisors](https://github.com/suriya911/Leet-Code-Problems/tree/master/1390-four-divisors) |
@@ -706,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/suriya911/Leet-Code-Problems/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/suriya911/Leet-Code-Problems/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/suriya911/Leet-Code-Problems/tree/master/0735-asteroid-collision) |
+| [1103-distribute-candies-to-people](https://github.com/suriya911/Leet-Code-Problems/tree/master/1103-distribute-candies-to-people) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/suriya911/Leet-Code-Problems/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1642-water-bottles](https://github.com/suriya911/Leet-Code-Problems/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/suriya911/Leet-Code-Problems/tree/master/2048-build-array-from-permutation) |
