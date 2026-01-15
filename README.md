@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/suriya911/Leet-Code-Problems/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2868-continuous-subarrays](https://github.com/suriya911/Leet-Code-Problems/tree/master/2868-continuous-subarrays) |
 | [2915-count-of-interesting-subarrays](https://github.com/suriya911/Leet-Code-Problems/tree/master/2915-count-of-interesting-subarrays) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/suriya911/Leet-Code-Problems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/suriya911/Leet-Code-Problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/suriya911/Leet-Code-Problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/suriya911/Leet-Code-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2787-movement-of-robots](https://github.com/suriya911/Leet-Code-Problems/tree/master/2787-movement-of-robots) |
 | [2887-sort-vowels-in-a-string](https://github.com/suriya911/Leet-Code-Problems/tree/master/2887-sort-vowels-in-a-string) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/suriya911/Leet-Code-Problems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/suriya911/Leet-Code-Problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/suriya911/Leet-Code-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/suriya911/Leet-Code-Problems/tree/master/3291-find-if-array-can-be-sorted) |
