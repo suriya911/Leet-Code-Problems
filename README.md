@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/suriya911/Leet-Code-Problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/suriya911/Leet-Code-Problems/tree/master/1876-map-of-highest-peak) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/suriya911/Leet-Code-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/suriya911/Leet-Code-Problems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/suriya911/Leet-Code-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/suriya911/Leet-Code-Problems/tree/master/1895-largest-magic-square) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/suriya911/Leet-Code-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/suriya911/Leet-Code-Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/suriya911/Leet-Code-Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/suriya911/Leet-Code-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1923-sentence-similarity-iii](https://github.com/suriya911/Leet-Code-Problems/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/suriya911/Leet-Code-Problems/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/suriya911/Leet-Code-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -654,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/suriya911/Leet-Code-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/suriya911/Leet-Code-Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/suriya911/Leet-Code-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/suriya911/Leet-Code-Problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/suriya911/Leet-Code-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2164-two-best-non-overlapping-events](https://github.com/suriya911/Leet-Code-Problems/tree/master/2164-two-best-non-overlapping-events) |
@@ -906,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/suriya911/Leet-Code-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/suriya911/Leet-Code-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/suriya911/Leet-Code-Problems/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/suriya911/Leet-Code-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/suriya911/Leet-Code-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/suriya911/Leet-Code-Problems/tree/master/1975-maximum-matrix-sum) |
 | [2089-maximum-matrix-sum](https://github.com/suriya911/Leet-Code-Problems/tree/master/2089-maximum-matrix-sum) |
