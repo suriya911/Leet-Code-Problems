@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/suriya911/Leet-Code-Problems/tree/master/1063-best-sightseeing-pair) |
 | [1093-statistics-from-a-large-sample](https://github.com/suriya911/Leet-Code-Problems/tree/master/1093-statistics-from-a-large-sample) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/suriya911/Leet-Code-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1200-minimum-absolute-difference](https://github.com/suriya911/Leet-Code-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/suriya911/Leet-Code-Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/suriya911/Leet-Code-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/suriya911/Leet-Code-Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/suriya911/Leet-Code-Problems/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/suriya911/Leet-Code-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1030-matrix-cells-in-distance-order](https://github.com/suriya911/Leet-Code-Problems/tree/master/1030-matrix-cells-in-distance-order) |
+| [1200-minimum-absolute-difference](https://github.com/suriya911/Leet-Code-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/suriya911/Leet-Code-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/suriya911/Leet-Code-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/suriya911/Leet-Code-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
