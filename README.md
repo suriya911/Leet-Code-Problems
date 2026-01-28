@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-minimum-positive-sum-subarray](https://github.com/suriya911/Leet-Code-Problems/tree/master/3644-minimum-positive-sum-subarray) |
 | [3647-zero-array-transformation-iii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/suriya911/Leet-Code-Problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/suriya911/Leet-Code-Problems/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/suriya911/Leet-Code-Problems/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/suriya911/Leet-Code-Problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -821,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/suriya911/Leet-Code-Problems/tree/master/3637-count-number-of-balanced-permutations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/suriya911/Leet-Code-Problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/suriya911/Leet-Code-Problems/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/suriya911/Leet-Code-Problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Divide and Conquer
 |  |
@@ -1239,6 +1241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/suriya911/Leet-Code-Problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/suriya911/Leet-Code-Problems/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/suriya911/Leet-Code-Problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/suriya911/Leet-Code-Problems/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/suriya911/Leet-Code-Problems/tree/master/3797-design-spreadsheet) |
