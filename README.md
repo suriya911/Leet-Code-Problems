@@ -844,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/suriya911/Leet-Code-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/suriya911/Leet-Code-Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/suriya911/Leet-Code-Problems/tree/master/0191-number-of-1-bits) |
+| [1382-balance-a-binary-search-tree](https://github.com/suriya911/Leet-Code-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1873-longest-nice-substring](https://github.com/suriya911/Leet-Code-Problems/tree/master/1873-longest-nice-substring) |
 ## Stack
 |  |
@@ -920,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/suriya911/Leet-Code-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/suriya911/Leet-Code-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/suriya911/Leet-Code-Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1382-balance-a-binary-search-tree](https://github.com/suriya911/Leet-Code-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/suriya911/Leet-Code-Problems/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/suriya911/Leet-Code-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/suriya911/Leet-Code-Problems/tree/master/1502-construct-k-palindrome-strings) |
@@ -1102,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/suriya911/Leet-Code-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/suriya911/Leet-Code-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/suriya911/Leet-Code-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/suriya911/Leet-Code-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/suriya911/Leet-Code-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/suriya911/Leet-Code-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/suriya911/Leet-Code-Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -1139,6 +1142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/suriya911/Leet-Code-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/suriya911/Leet-Code-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/suriya911/Leet-Code-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/suriya911/Leet-Code-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/suriya911/Leet-Code-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Design
 |  |
@@ -1309,6 +1313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/suriya911/Leet-Code-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/suriya911/Leet-Code-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/suriya911/Leet-Code-Problems/tree/master/1192-critical-connections-in-a-network) |
+| [1382-balance-a-binary-search-tree](https://github.com/suriya911/Leet-Code-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1396-count-servers-that-communicate](https://github.com/suriya911/Leet-Code-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/suriya911/Leet-Code-Problems/tree/master/1558-course-schedule-iv) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/suriya911/Leet-Code-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -1455,6 +1460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/suriya911/Leet-Code-Problems/tree/master/0096-unique-binary-search-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/suriya911/Leet-Code-Problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Line Sweep
 |  |
 | ------- |
