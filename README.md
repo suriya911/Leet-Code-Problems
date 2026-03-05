@@ -482,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/suriya911/Leet-Code-Problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/suriya911/Leet-Code-Problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/suriya911/Leet-Code-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/suriya911/Leet-Code-Problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/suriya911/Leet-Code-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1873-longest-nice-substring](https://github.com/suriya911/Leet-Code-Problems/tree/master/1873-longest-nice-substring) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/suriya911/Leet-Code-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
