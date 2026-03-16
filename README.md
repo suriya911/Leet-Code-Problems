@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/suriya911/Leet-Code-Problems/tree/master/1500-count-largest-group) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/suriya911/Leet-Code-Problems/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/suriya911/Leet-Code-Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1622-fancy-sequence](https://github.com/suriya911/Leet-Code-Problems/tree/master/1622-fancy-sequence) |
 | [1642-water-bottles](https://github.com/suriya911/Leet-Code-Problems/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/suriya911/Leet-Code-Problems/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/suriya911/Leet-Code-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -1167,6 +1168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0901-online-stock-span](https://github.com/suriya911/Leet-Code-Problems/tree/master/0901-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/suriya911/Leet-Code-Problems/tree/master/0969-number-of-recent-calls) |
+| [1622-fancy-sequence](https://github.com/suriya911/Leet-Code-Problems/tree/master/1622-fancy-sequence) |
 | [2023-design-movie-rental-system](https://github.com/suriya911/Leet-Code-Problems/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/suriya911/Leet-Code-Problems/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/suriya911/Leet-Code-Problems/tree/master/2429-design-a-food-rating-system) |
@@ -1368,6 +1370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/suriya911/Leet-Code-Problems/tree/master/1622-fancy-sequence) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/suriya911/Leet-Code-Problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3454-separate-squares-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3454-separate-squares-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/suriya911/Leet-Code-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
