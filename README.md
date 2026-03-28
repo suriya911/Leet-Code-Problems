@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/suriya911/Leet-Code-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/suriya911/Leet-Code-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/suriya911/Leet-Code-Problems/tree/master/2554-minimum-total-distance-traveled) |
+| [2573-find-the-string-with-lcp](https://github.com/suriya911/Leet-Code-Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/suriya911/Leet-Code-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2625-increment-submatrices-by-one](https://github.com/suriya911/Leet-Code-Problems/tree/master/2625-increment-submatrices-by-one) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/suriya911/Leet-Code-Problems/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/suriya911/Leet-Code-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/2465-shifting-letters-ii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/suriya911/Leet-Code-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2573-find-the-string-with-lcp](https://github.com/suriya911/Leet-Code-Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2580-circular-sentence](https://github.com/suriya911/Leet-Code-Problems/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/suriya911/Leet-Code-Problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/suriya911/Leet-Code-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -851,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/suriya911/Leet-Code-Problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/suriya911/Leet-Code-Problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/suriya911/Leet-Code-Problems/tree/master/2554-minimum-total-distance-traveled) |
+| [2573-find-the-string-with-lcp](https://github.com/suriya911/Leet-Code-Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2850-construct-the-longest-new-string](https://github.com/suriya911/Leet-Code-Problems/tree/master/2850-construct-the-longest-new-string) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/suriya911/Leet-Code-Problems/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -977,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/suriya911/Leet-Code-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/suriya911/Leet-Code-Problems/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/suriya911/Leet-Code-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2573-find-the-string-with-lcp](https://github.com/suriya911/Leet-Code-Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/suriya911/Leet-Code-Problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/suriya911/Leet-Code-Problems/tree/master/2689-rearranging-fruits) |
 | [2716-prime-subtraction-operation](https://github.com/suriya911/Leet-Code-Problems/tree/master/2716-prime-subtraction-operation) |
@@ -1297,6 +1301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/suriya911/Leet-Code-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/suriya911/Leet-Code-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/suriya911/Leet-Code-Problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2573-find-the-string-with-lcp](https://github.com/suriya911/Leet-Code-Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2625-increment-submatrices-by-one](https://github.com/suriya911/Leet-Code-Problems/tree/master/2625-increment-submatrices-by-one) |
 | [2685-first-completely-painted-row-or-column](https://github.com/suriya911/Leet-Code-Problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/suriya911/Leet-Code-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -1531,4 +1536,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/suriya911/Leet-Code-Problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Union-Find
+|  |
+| ------- |
+| [2573-find-the-string-with-lcp](https://github.com/suriya911/Leet-Code-Problems/tree/master/2573-find-the-string-with-lcp) |
 <!---LeetCode Topics End-->
