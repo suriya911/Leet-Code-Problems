@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/suriya911/Leet-Code-Problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/suriya911/Leet-Code-Problems/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/suriya911/Leet-Code-Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/suriya911/Leet-Code-Problems/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/suriya911/Leet-Code-Problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -672,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/suriya911/Leet-Code-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/suriya911/Leet-Code-Problems/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3454-separate-squares-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/suriya911/Leet-Code-Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3790-fruits-into-baskets-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3791-fruits-into-baskets-iii) |
 ## Sorting
@@ -739,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/suriya911/Leet-Code-Problems/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/suriya911/Leet-Code-Problems/tree/master/3634-minimum-removals-to-balance-array) |
 | [3647-zero-array-transformation-iii](https://github.com/suriya911/Leet-Code-Problems/tree/master/3647-zero-array-transformation-iii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/suriya911/Leet-Code-Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3748-sort-matrix-by-diagonals](https://github.com/suriya911/Leet-Code-Problems/tree/master/3748-sort-matrix-by-diagonals) |
 | [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/suriya911/Leet-Code-Problems/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
 ## Bit Manipulation
@@ -881,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-count-number-of-balanced-permutations](https://github.com/suriya911/Leet-Code-Problems/tree/master/3637-count-number-of-balanced-permutations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/suriya911/Leet-Code-Problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/suriya911/Leet-Code-Problems/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/suriya911/Leet-Code-Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/suriya911/Leet-Code-Problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Divide and Conquer
 |  |
