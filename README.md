@@ -497,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/suriya911/Leet-Code-Problems/tree/master/0649-dota2-senate) |
 | [0696-count-binary-substrings](https://github.com/suriya911/Leet-Code-Problems/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/suriya911/Leet-Code-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0796-rotate-string](https://github.com/suriya911/Leet-Code-Problems/tree/master/0796-rotate-string) |
 | [0868-push-dominoes](https://github.com/suriya911/Leet-Code-Problems/tree/master/0868-push-dominoes) |
 | [0873-guess-the-word](https://github.com/suriya911/Leet-Code-Problems/tree/master/0873-guess-the-word) |
 | [0952-word-subsets](https://github.com/suriya911/Leet-Code-Problems/tree/master/0952-word-subsets) |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suriya911/Leet-Code-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/suriya911/Leet-Code-Problems/tree/master/0796-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/suriya911/Leet-Code-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/suriya911/Leet-Code-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/suriya911/Leet-Code-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
