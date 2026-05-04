@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/suriya911/Leet-Code-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/suriya911/Leet-Code-Problems/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/suriya911/Leet-Code-Problems/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/suriya911/Leet-Code-Problems/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/suriya911/Leet-Code-Problems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/suriya911/Leet-Code-Problems/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/suriya911/Leet-Code-Problems/tree/master/0085-maximal-rectangle) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/suriya911/Leet-Code-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/suriya911/Leet-Code-Problems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/suriya911/Leet-Code-Problems/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/suriya911/Leet-Code-Problems/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/suriya911/Leet-Code-Problems/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/suriya911/Leet-Code-Problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/suriya911/Leet-Code-Problems/tree/master/0066-plus-one) |
@@ -1320,6 +1322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/suriya911/Leet-Code-Problems/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/suriya911/Leet-Code-Problems/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/suriya911/Leet-Code-Problems/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/suriya911/Leet-Code-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/suriya911/Leet-Code-Problems/tree/master/0417-pacific-atlantic-water-flow) |
