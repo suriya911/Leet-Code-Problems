@@ -595,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suriya911/Leet-Code-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/suriya911/Leet-Code-Problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suriya911/Leet-Code-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/suriya911/Leet-Code-Problems/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/suriya911/Leet-Code-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/suriya911/Leet-Code-Problems/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/suriya911/Leet-Code-Problems/tree/master/0165-compare-version-numbers) |
@@ -641,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/suriya911/Leet-Code-Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/suriya911/Leet-Code-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/suriya911/Leet-Code-Problems/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/suriya911/Leet-Code-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/suriya911/Leet-Code-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/suriya911/Leet-Code-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
