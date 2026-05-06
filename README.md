@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/suriya911/Leet-Code-Problems/tree/master/0679-24-game) |
 | [0728-self-dividing-numbers](https://github.com/suriya911/Leet-Code-Problems/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/suriya911/Leet-Code-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/suriya911/Leet-Code-Problems/tree/master/0788-rotated-digits) |
 | [0826-soup-servings](https://github.com/suriya911/Leet-Code-Problems/tree/master/0826-soup-servings) |
 | [0828-chalkboard-xor-game](https://github.com/suriya911/Leet-Code-Problems/tree/master/0828-chalkboard-xor-game) |
 | [0830-largest-triangle-area](https://github.com/suriya911/Leet-Code-Problems/tree/master/0830-largest-triangle-area) |
@@ -869,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/suriya911/Leet-Code-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/suriya911/Leet-Code-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/suriya911/Leet-Code-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0788-rotated-digits](https://github.com/suriya911/Leet-Code-Problems/tree/master/0788-rotated-digits) |
 | [0806-domino-and-tromino-tiling](https://github.com/suriya911/Leet-Code-Problems/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/suriya911/Leet-Code-Problems/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/suriya911/Leet-Code-Problems/tree/master/0867-new-21-game) |
